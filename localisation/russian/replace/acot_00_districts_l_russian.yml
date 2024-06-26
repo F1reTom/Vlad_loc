@@ -1,0 +1,210 @@
+﻿l_russian:
+ 
+col_acot_fractured_colony: "§EРасколотая колония"
+col_acot_fractured_colony_desc: "Суровая и опасная колония, куда отваживаются ступать только самые закоренелые энтузиасты темной материи и энергии."
+
+col_acot_enigmatic_colony: "§EEnigmatic Colony§!"
+col_acot_enigmatic_colony_desc: "The calm storm and the eerie echoes of the past beckons those who dares to brave the new age."
+ 
+col_acot_enigmopolis: "§BДомен сферы пустоты"
+col_acot_enigmopolis_desc: "Внушающие благоговение домены тех, кто отважится бросить вызов пустоте космоса. Постоянно звучат имперские ритмы и гимны, напоминающие всем о долгом пути, который они прошли."
+ 
+col_acot_phanon_vault: "§RХранилище Фанона"
+col_acot_phanon_vault_desc: "§RТаинственная станция, назначение которой неизвестно никому, кроме самого Корпуса Фанона."
+
+col_acot_enigma_capital: "§EEnigmatic Capital World§!"
+col_acot_enigma_capital_desc: "The capital world of this empire has fully integrated the power of its enigmatic technologies into all aspects of the world's functions, vastly improving all capabilities upon its soil."
+
+col_acot_brw: "§EEnigmatic Extraction World§!"
+col_acot_brw_desc: "This world is directing enigmatic power to enhance the output potential of the fundamental resources of old."
+
+col_acot_indus_refin: "§EEnigmatic Industrial World§!"
+col_acot_indus_refin_desc: "This world is directing enigmatic power into improving its ability to acquire advanced and basic strategic resources."
+
+col_acot_knowledge_is_power: "§EEnigmatic Research World§!"
+col_acot_knowledge_is_power_desc: "This world is directing enigmatic power into increasing its capabilities of generating science."
+
+#### WORLD ######
+
+sc_acot_void_star: "Пустотная звезда"
+
+acot_cracked_fractured: "Расколотая пустотой планета"
+acot_cracked_fractured_adj: "Расколотая пустотой планета"
+acot_cracked_fractured_desc: "Немыслимо"
+
+pc_acot_void_star: "Пустотная звезда"
+pc_acot_void_star_adj: "Пустотная звезда"
+pc_acot_void_star_desc: "Непостижимо."
+
+pc_acot_void_hole: "Пустота, полая"
+pc_acot_void_hole_adj: "Пустота, полая"
+pc_acot_void_hole_desc: "Какое-то ужасное, ужасное дерьмо."
+ 
+pc_dark_fractured: "Расколотый мир"
+pc_dark_fractured_adj: "Расколотый мир"
+pc_dark_fractured_desc: "Расколотые миры покрыты жестокими бурями и наполнены множеством темных аномалий. Хотя есть места, пригодные для жизни, планета остается пустынной землей, едва способной поддерживать какую-либо жизнь."
+  
+pc_dark_fractured_ae: "Ультра-расколотый мир"
+pc_dark_fractured_ae_adj: "Ультра-расколотый мир"
+pc_dark_fractured_ae_desc: "Расколотые миры покрыты жестокими бурями и наполнены множеством темных аномалий. Хотя есть места, пригодные для жизни, планета остается пустынной землей, едва способной поддерживать какую-либо жизнь."
+ 
+pc_dark_fractured_unstable: "Нестабильный расколотый мир"
+pc_dark_fractured_unstable_desc: "Расколотые миры покрыты жестокими штормами и наполнены множеством темных аномалий. Густые штормовые облака опасны до такой степени, что корабли не могут определить, в какой стороне подъем, что предотвращает любые попытки посадки."
+  
+pc_dark_fractured_ae_unstable: "Нестабильный ультра-расколотый мир"
+pc_dark_fractured_ae_unstable_desc: "Расколотые миры покрыты жестокими штормами и наполнены множеством темных аномалий. Густые штормовые облака слишком опасны, настолько, что корабли не могут определить, в какой стороне подъем, что предотвращает любые попытки посадки."
+ 
+ 
+pc_acot_enigmatic: "Загадочный мир"
+pc_acot_enigmatic_adj: "Загадочный мир"
+pc_acot_enigmatic_desc: "Загадочные миры покрыты смертоносными, но стабильными штормами, которые, хотя и опасны, также защищают планету от различных бомбардировок. Хотя большая часть планет в настоящее время безопасна для навигации, планета остается смертельно опасной для большинства форм жизни без защиты."
+ 
+pc_acot_enigmopolis: "Сфера пустоты"
+pc_acot_enigmopolis_adj: "Сфера пустоты"
+pc_acot_enigmopolis_desc: "Мощный экуменополис, питающийся от древнего ядра предтеч и окруженный арками и барьерами."
+ 
+trait_pc_dark_fractured_preference: "Порождение тьмы"
+trait_pc_dark_fractured_preference_desc: "Им нравится находиться в черных дырах."
+mod_pc_dark_fractured_habitability: "Способность к выживанию в расколотом мире"
+ 
+trait_pc_dark_fractured_ae_preference: "Адские отродья"
+trait_pc_dark_fractured_ae_preference_desc: "Возможно, они и есть Черная дыра?"
+mod_pc_dark_fractured_ae_habitability: "Способность к выживанию в ультра-расколотом мире"
+ 
+trait_pc_acot_enigmopolis_preference: "Адские отродья"
+trait_pc_acot_enigmopolis_preference_desc: "Возможно, они и есть Черная дыра?"
+mod_pc_acot_enigmopolis_habitability: "Способность к выживанию в ультра-расколотом мире"
+
+trait_pc_acot_enigmatic_preference: "Исчадие ада"
+trait_pc_acot_enigmatic_preference_desc: "Возможно, они и есть Черная дыра?"
+mod_pc_acot_enigmatic_habitability: "Выживаемость в загадочном мире"
+ 
+#### DUSTRRYCIT ######
+ 
+district_acot_fractured_shelter: "Дельта-Убежище"
+district_acot_fractured_shelter_plural: "Дельта-Убежища"
+district_acot_fractured_shelter_desc: "Дельта-Убежища обеспечивают защиту и жилье для отважных душ, работающих в суровых условиях мира."
+ 
+tech_acot_fractured_shelter: "Усиленное убежище"
+tech_acot_fractured_shelter_desc: "Бури темной энергии нередко возникают в неспокойном небе расколотого мира. Нестабильная местность и враждебные элементы требуют создания соответствующих убежищ для защиты от этих опасностей."
+ 
+district_acot_fractured_science_dome: "Дельта-Обсерватория"
+district_acot_fractured_science_dome_plural: "Дельта-Обсерватории"
+district_acot_fractured_science_dome_desc: "Дельта-Обсерватории предоставляют исследователям необходимые инструменты и оборудование для безопасного проведения наблюдений и экспериментов на разрушенном мире."
+ 
+tech_acot_fractured_science_dome: "Наблюдение за неизвестным"
+tech_acot_fractured_science_dome_desc: "На расколотых мирах существует множество чудес и аномалий, которые бросают вызов всем ранее известным теориям и законам физики. Но если мы хотим отправить туда наших исследователей, они должны быть хорошо защищены и защищены от опасного окружения."
+ 
+district_acot_fractured_dm_trapper: "Дельта-Шпиль"
+district_acot_fractured_dm_trapper_plural: "Дельта-Шпили"
+district_acot_fractured_dm_trapper_desc: "Дельта-Шпили предоставляют ремесленникам и алхимикам мастерские, необходимые для создания темной материи и темной энергии."
+ 
+tech_acot_fractured_trapper: "Загадочные шпили"
+tech_acot_fractured_trapper_desc: "Хотя Темная энергия и Темная материя в изобилии окружает расколотые миры, большинство из них слишком нестабильны и рассеяны, чтобы их можно было собрать. Разрабатываются проекты Загадочных Шпилей, чтобы поймать и преобразовать эти неестественно рожденные явления в безграничные запасы."
+ 
+district_acot_fractured_dm_fort: "Дельта-Аванпост"
+district_acot_fractured_dm_fort_plural: "Дельта-Аванпосты"
+district_acot_fractured_dm_fort_desc: "Дельта-Аванпосты — это контрольно-пропускные пункты, которые могут обнаруживать нарушителей и включать громкие музыкальные темы, чтобы отпугнуть их."
+ 
+tech_acot_fractured_fort: "Пустотные укрепления"
+tech_acot_fractured_fort_desc: "В Расколотых мирах обитает множество опасных элементов, которые стремятся пресечь любые попытки колонизации. Многие из этих элементов найдут слабые места и бреши в обычных крепостях, поэтому для сдерживания этих враждебных гостей потребуются специальные фортификационные районы."
+ 
+tech_acot_fractured_size_upgrade_1: "Фрактальный континуум"
+tech_acot_fractured_size_upgrade_1_desc: "Неумолимые ландшафты расколотых миров затрудняют адаптацию населения, вызывая ненужные корректировки, которые обходятся нам в дополнительное пространство района. Мы должны научиться приспосабливаться к этому."
+tech_acot_fractured_size_upgrade_1_tooltip: "Улучшает районы Расколотого и Ультра-расколотого миров, чтобы они могли потреблять на один слот района меньше."
+ 
+tech_acot_fractured_size_upgrade_2: "Главный терминал управления"
+tech_acot_fractured_size_upgrade_2_desc: "Вместо того, чтобы полагаться на техников и инженеров, которые должны постоянно проводить проверки структурной целостности районов, можно установить ГТУ, который сам будет считывать и устранять любые поврежденные места. Это избавит нас от необходимости выделять дополнительные площади для выездных инженерных бригад и сократит площадь района."
+tech_acot_fractured_size_upgrade_2_tooltip: "Улучшает районы Расколотых и Ультра-расколотых миров, чтобы они занимали на один слот района меньше. В итоге они будут стоить всего один слот."
+ 
+#### AOULPA DUSTRRYCIT ######
+ 
+district_acot_fractured_ae_shelter: "Альфа-Убежище"
+district_acot_fractured_ae_shelter_plural: "Альфа-Убежища"
+district_acot_fractured_ae_shelter_desc: "Альфа-Убежище обеспечивает защиту и жилье для храбрых душ, работающих в суровых условиях мира."
+ 
+district_acot_fractured_ae_science_dome: "Альфа-Обсерватория"
+district_acot_fractured_ae_science_dome_plural: "Альфа-Обсерватории"
+district_acot_fractured_ae_science_dome_desc: "Альфа-Обсерватории предоставляют исследователям необходимые инструменты и оборудование для безопасного проведения наблюдений и экспериментов на расколотом мире."
+ 
+district_acot_fractured_ae_trapper: "Альфа-Шпиль"
+district_acot_fractured_ae_trapper_plural: "Альфа-Шпили"
+district_acot_fractured_ae_trapper_desc: "Альфа-Шпили предоставляют ремесленникам и алхимикам мастерские, необходимые для создания темной материи и темной энергии."
+ 
+district_acot_fractured_ae_fort: "Альфа-Аванпост"
+district_acot_fractured_ae_fort_plural: "Альфа-Аванпосты"
+district_acot_fractured_ae_fort_desc: "Альфа-Аванпост — это контрольно-пропускные пункты, которые могут обнаруживать нарушителей и включать громкие музыкальные темы, чтобы отпугнуть их."
+ 
+#### CUPOLIS DUSTRRYCIT ######
+ 
+district_acot_enigmapolis_city: "Комплекс пустоты"
+district_acot_enigmapolis_city_plural: "Комплексы пустоты"
+district_acot_enigmapolis_city_desc: "Комплекс пустоты — это сердце общества Сферы Пустоты. Здесь расположены все офисы управления системой и огромные супергорода."
+
+tech_acot_enigmapolis_science: "Subverse Simulation"
+tech_acot_enigmapolis_science_desc: "Given the level of technology and dimensional mastery that we have, coupled with the advanced equipment within a Void Tribunal District, we can use these powers to simulate dimensions or even galaxies to test and defy all creation before applying it to real space."
+tech_acot_enigmapolis_science_tooltip: "Upgrades Void Tribunal to switch from providing traditional jobs to a unique one with superior output."
+
+district_acot_enigmapolis_science: "Трибунал пустоты"
+district_acot_enigmapolis_science_plural: "Трибунал пустоты"
+district_acot_enigmapolis_science_desc: "Трибунал пустоты — это место, где собираются Провидцы пустоты, чтобы заглянуть в пустоту и воплотить видения в реальность."
+
+tech_acot_enigmapolis_forge: "Void Traversal"
+tech_acot_enigmapolis_forge_desc: "We have the proper anchor and technology to allow direct breach into other dimensional spaces, where it'll be much more efficient to harvest Dark Energy and Dark Matter than traditional synthetic means."
+tech_acot_enigmapolis_forge_tooltip: "Upgrades Void Alphaspace to switch from providing traditional jobs to a unique one with superior output."
+
+district_acot_enigmapolis_forge: "Кузня пустоты"
+district_acot_enigmapolis_forge_plural: "Кузни пустоты"
+district_acot_enigmapolis_forge_desc: "Кузня пустоты - массив фабрик жесткого света, который может материализовывать различные ресурсы."
+
+#################################
+ 
+tech_acot_enigmapolis_silo: "Dimension Harvest"
+tech_acot_enigmapolis_silo_desc: "Why rely on natural or unnatural means to gather resources, when we can use supernatural means?"
+tech_acot_enigmapolis_silo_tooltip: "Void Forges provide powerful economic boost, but will requires further expansion to acquire specific resources, which can be done via decisions."
+
+district_acot_enigmapolis_silo: "Башня пустоты"
+district_acot_enigmapolis_silo_plural: "Башни пустоты"
+district_acot_enigmapolis_silo_desc: "Башня пустоты позволяет Путешественникам Пустоты безопасно переходить в подпространства и добывать там ресурсы."
+
+acot_modifier_voidsphere_silo_alloys: "Alloy Dimension"
+acot_modifier_voidsphere_silo_alloys_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_alloys$§! or their gestalt counterparts as well as generation alloys on their own."
+decision_acot_voidsphere_silo_alloys: "Alloy Dimension Forge"
+decision_acot_voidsphere_silo_alloys_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_alloys$§! or their gestalt counterparts as well as generation alloys on their own."
+
+acot_modifier_voidsphere_silo_minerals: "Minerals Dimension"
+acot_modifier_voidsphere_silo_minerals_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_minerals$§! or their gestalt counterparts as well as generation minerals on their own."
+decision_acot_voidsphere_silo_minerals: "Minerals Dimension Forge"
+decision_acot_voidsphere_silo_minerals_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_minerals$§! or their gestalt counterparts as well as generation minerals on their own."
+
+acot_modifier_voidsphere_silo_energy: "Energy Dimension"
+acot_modifier_voidsphere_silo_energy_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_energy$§! or their gestalt counterparts as well as generation energy on their own."
+decision_acot_voidsphere_silo_energy: "Energy Dimension Forge"
+decision_acot_voidsphere_silo_energy_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_energy$§! or their gestalt counterparts as well as generation energy on their own."
+
+acot_modifier_voidsphere_silo_food: "Food Dimension"
+acot_modifier_voidsphere_silo_food_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_food$§! or their gestalt counterparts as well as generation food on their own."
+decision_acot_voidsphere_silo_food: "Food Dimension Forge"
+decision_acot_voidsphere_silo_food_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_food$§! or their gestalt counterparts as well as generation food on their own."
+
+acot_modifier_voidsphere_silo_goods: "Meme Dimension"
+acot_modifier_voidsphere_silo_goods_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_goods$§! or their gestalt counterparts as well as generation that stupid overrated resources on their own."
+decision_acot_voidsphere_silo_goods: "Meme Dimension Forge"
+decision_acot_voidsphere_silo_goods_desc: "All §E$district_acot_enigmapolis_silo$§! provides §E$job_acot_voidsphere_siloman_goods$§! or their gestalt counterparts as well as generation that stupid overrated resources on their own."
+
+###########################
+
+tech_acot_enigmapolis_fortress: "Giga Extension"
+tech_acot_enigmapolis_fortress_desc: "How do you improve upon planetary protection that already has a Giga Fortress? Make the planet walls themselves full of Giga Fortresses of course."
+tech_acot_enigmapolis_fortress_tooltip: "Upgrades Void Barrier to also provides a single Giga Fortress Operator job each."
+
+district_acot_enigmapolis_fortress: "Барьер пустоты"
+district_acot_enigmapolis_fortress_plural: "Барьеры пустоты"
+district_acot_enigmapolis_fortress_desc: "Барьер пустоты обеспечивает планету защитными армиями и гига-пушками."
+
+tech_acot_enigmapolis_stellarite: "Void Stellar Shard"
+tech_acot_enigmapolis_stellarite_desc: "Although Void Sphere is primarily designed for Enigmatic-based technology, its robust and flexible architectures are also ideal for creating mass arrays of Stellar Shards for stellarite generation, provided we can isolate them from other incompatible elements."
+
+district_acot_enigmapolis_stellarite: "Void Stellar Shard"
+district_acot_enigmapolis_stellarite_plural: "Void Stellar Shard"
+district_acot_enigmapolis_stellarite_desc: "Although the First Star may never be restored again, even a tiny speck of its once radiant majesty could create wonders of eternity, and such wonders would require a place of extraordinary care and durability."
