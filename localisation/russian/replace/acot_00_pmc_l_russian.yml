@@ -1,0 +1,1279 @@
+﻿l_russian:
+ 
+PHANON: "§RКорпус Фанона"
+
+sm_acot_sb_phanon_assembly: "Деклассификатор алгоритмов логики Фанона"
+sm_acot_sb_phanon_assembly_desc: "Суперкомпьютеры, разработанные для имитации сигналов и логики звездных баз Корпуса Фанона, позволяющие строить грозные корабли Корпуса. Из-за постоянного изменения идентификационного ключа Корпуса, система требует огромного количества энергии, а также массивных запасов Темной материи и Темной энергии, чтобы справляться с задачей."
+acot_sb_phanon_assembly_tooltip: "§YПозволяет строить корабли Фанона.§!"
+
+tech_enable_phanon_design: "Деклассификация логики Фанона"
+tech_enable_phanon_design_desc: "По умолчанию, только главный терминал управления на Основной Орбитальной Станции Фанона содержит необходимый пропуск для строительства и проектирования военных кораблей Фанона, но с некоторыми дефрагментациями и модификацией сигналов, возможно, удастся позволить и другим звездным базам строить корабли Фанона, это может даже привести к некоторым новым интересным данным в будущем."
+TECH_UNLOCK_PHANON_BUILD_TITLE: "Деклассификация логики Фанона"
+TECH_UNLOCK_PHANON_BUILD_DESC: "Разблокирует специальное сооружение звездной базы, позволяющее строить корабли Фанона."
+
+tech_precursor_phanon_design: "Руническая адаптация предтеч"
+tech_precursor_phanon_design_desc: "Давайте попробуем новый подход."
+TECH_UNLOCK_PHANON_PRECURSOR_TITLE: "Руническая адаптация предтеч"
+TECH_UNLOCK_PHANON_PRECURSOR_DESC: "Разблокирует Рунические проекты для кораблей предтеч."
+
+damage_vs_country_type_acot_phanon_base_mult: "Урон против Корпуса Фанона"
+damage_vs_country_type_acot_phanon_retaliator_mult: "Урон против Флота Возмездия Корпуса Фанона"
+mod_damage_vs_country_type_acot_phanon_base_mult: "Урон против Корпуса Фанона"
+mod_damage_vs_country_type_acot_phanon_retaliator_mult: "Урон против Флота Возмездия Корпуса Фанона"
+
+acot_phanon_invader_dead_operative_debuff: "Оперативник Дед"
+acot_phanon_invader_dead_operative_debuff_desc: "Надо было избегать маршрута щупалец."
+
+personality_acot_phanon_base_personality: "§RМежгалактическая военизированная компания"
+personality_acot_phanon_base_personality_desc: "§RМогущественная нейтральная фракция, возглавляемая таинственным Уримурихом."
+
+pc_acot_pmc_vault: "§RКомандное хранилище Фанона"
+pc_acot_pmc_vault_adj: "§RКомандное хранилище Фанона"
+pc_acot_pmc_vault_desc: "§RКомандное хранилище - это сердце каждой оперативной базы Фанона в галактике. Хотя снаружи оно совершенно непримечательно по сравнению с другими чудесами империи, кто знает, какие тайны скрываются в этом загадочном хранилище. Таинственный мощный щит делает его практически непробиваемым для орбитальных бомбардировок."
+ 
+pc_acot_pmc_vault_unshielded: "Неэкранированное командное хранилище Фанона"
+pc_acot_pmc_vault_unshielded_adj: "Неэкранированное командное хранилище Фанона"
+pc_acot_pmc_vault_unshielded_desc: "§RКомандное хранилище - это сердце каждой оперативной базы Фанона в галактике. Какие секреты скрываются внутри, теперь уже неважно, поскольку щиты разрушены, а мегаструктура уязвима для бомбардировок. Дни существования обреченного хранилища сочтены."
+ 
+pc_acot_pmc_data_planet: "§RБлок данных Фанона"
+pc_acot_pmc_data_planet_adj: "§RБлок данных Фанона"
+pc_acot_pmc_data_planet_desc: "§RОцифрованная планета, хранящая огромное количество данных и информации различной тематики."
+ 
+pc_acot_pmc_storage_planet: "§RБлок хранения Фанона"
+pc_acot_pmc_storage_planet_adj: "§RБлок хранения Фанона"
+pc_acot_pmc_storage_planet_desc: "§RПолностью механизированная планета, которая используется как массивное хранилище ресурсов для будущих планов Фанона."
+ 
+mod_pc_acot_pmc_vault_habitability: "Приспособленность — Хранилище Фанона"
+trait_pc_acot_pmc_vault_preference: "Мне нравится это"
+trait_pc_acot_pmc_vault_preference_desc: "Конечно, друг!"
+#### SHIP NAMES ####
+ 
+acot_star_bender: "§RЗвездный бендер"
+acot_star_bender_plural: "§RЗвездные бендеры"
+
+acot_star_bender_builder: "Star Bender Type B"
+acot_star_bender_builder_plural: "Star Bender Type Bs" 
+
+ACOT_STARBENDER_CARGO: "MUNI MUNI"
+ACOT_STARBENDER_BOW: "NANI?"
+ACOT_STARBENDER_STERN: "CHOTTO MATTE"
+ 
+acot_starfighter_hero: "§RЗвездный захватчик"
+acot_starfighter_hero_plural: "§RЗвездные захватчики"
+
+ACOT_PHANON_STARFIGHTERS_HERO_SECTION: "Первая формация"
+
+acot_star_fighters: "§RЭскадрилья звездных преследователей"
+acot_star_fighters_plural: "§RЭскадрильи звездных преследователей"
+
+tech_phanon_fighter: "§RКод доступа к звездным преследователям"
+tech_phanon_fighter_desc: "§RКод доступа к звездным преследователям" 
+
+ACOT_PHANON_STARFIGHTERS_TEAM_1: "Первая формация"
+ACOT_PHANON_STARFIGHTERS_TEAM_2: "Вторая формация"
+ACOT_PHANON_STARFIGHTERS_TEAM_3: "Третья формация"
+ 
+####################
+ 
+acot_star_destroyer: "§RЗвездный разрушитель"
+acot_star_destroyer_plural: "§RЗвездные разрушители" 
+
+ACOT_DESTROYER_SPINAL: "ПЕЧЬ ФАНОНА"
+ACOT_DESTROYER_BOW: "ПЕЧЬ ФАНОНА"
+ACOT_DESTROYER_MID_1: "ПЕЧЬ ФАНОНА"
+ACOT_DESTROYER_MID_2: "ПЕЧЬ ФАНОНА"
+ACOT_DESTROYER_CORE: "ПЕЧЬ ФАНОНА"
+ACOT_DESTROYER_STERN_DOWN: "ПЕЧЬ ФАНОНА"
+ACOT_DESTROYER_STERN: "ПЕЧЬ ФАНОНА"
+ACOT_DESTROYER_LEFT_WING: "ПЕЧЬ ФАНОНА"
+ACOT_DESTROYER_RIGHT_WING: "ПЕЧЬ ФАНОНА"
+
+tech_phanon_cruiser: "§RКод доступа к звездным разрушителям"
+tech_phanon_cruiser_desc: "§RКод доступа к звездным разрушителям"
+
+####################
+ 
+acot_star_devastator: "§RЗвездный опустошитель"
+acot_star_devastator_plural: "§RЗвездные опустошители"
+ 
+ACOT_Phanon_BOW: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_BOW_2: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_MID: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_MID_2: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_CORE: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_CORE_2: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_HUB: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_STERN: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_STERN_2: "ПЕЧЬ ФАНОНА"
+ 
+tech_phanon_bb: "§RКод доступа к звездным опустошителям"
+tech_phanon_bb_desc: "§RКод доступа к звездным опустошителям"
+
+####################
+ 
+acot_star_decimator: "§RЗвездный дециматор"
+acot_star_decimator_plural: "§RЗвездные дециматоры"
+ 
+ACOT_Phanon_BOW: "ПЕЧЬ ФАНОНА"
+ACOT_Phanon_HANGAR: "ПЕЧЬ ФАНОНА"
+ 
+####################
+ 
+acot_star_dominator: "§RЗвездный доминатор"
+acot_star_dominator_plural: "§RЗвездные доминаторы"
+ 
+ACOT_DOMINATOR_SPINAL_1: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_SPINAL_2: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_HAMMER_1: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_HAMMER_2: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_TUBE_A1: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_TUBE_A2: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_TUBE_B1: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_TUBE_B2: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_TUBE_C1: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_TUBE_C2: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_TUBE_D1: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_TUBE_D2: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_LEFT: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_RIGHT: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_STERN_1: "ПЕЧЬ ФАНОНА"
+ACOT_DOMINATOR_STERN_2: "ПЕЧЬ ФАНОНА"
+ 
+tech_phanon_titan: "§RКод доступа к звездным доминаторам"
+tech_phanon_titan_desc: "§RКод доступа к звездным доминаторам"
+
+####################
+ 
+acot_megadreadnought: "§RЗвездный доминатор II"
+acot_megadreadnought_plural: "§RЗвездные доминаторы II"
+ 
+ACOT_MEGANOUGHT_SPINAL_1: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_HAMMER_1: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_HAMMER_2: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_TUBE_A1: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_TUBE_A2: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_TUBE_B1: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_TUBE_B2: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_TUBE_C1: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_TUBE_C2: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_TUBE_D1: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_TUBE_D2: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_LEFT: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_RIGHT: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_STERN_1: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_STERN_2: "ПЕЧЬ ФАНОНА"
+ACOT_MEGANOUGHT_BOTTOM: "ПЕЧЬ ФАНОНА"
+ 
+####################
+ 
+acot_star_annihilator: "§RЗвездный аннигилятор"
+acot_star_annihilator_plural: "§RЗвездные аннигиляторы"
+ 
+ACOT_ANNIHILATOR_SPINAL: "ПЕЧЬ ФАНОНА"
+ACOT_ANNIHILATOR_HAMMER: "ПЕЧЬ ФАНОНА"
+ACOT_ANNIHILATOR_WING: "ПЕЧЬ ФАНОНА"
+ACOT_ANNIHILATOR_MID: "ПЕЧЬ ФАНОНА"
+ACOT_ANNIHILATOR_HUB: "ПЕЧЬ ФАНОНА"
+ACOT_ANNIHILATOR_STERN: "ПЕЧЬ ФАНОНА"
+ACOT_ANNIHILATOR_NOUGHT: "ПЕЧЬ ФАНОНА"
+ 
+tech_phanon_mothership: "§RКод доступа к звездным аннигиляторам"
+tech_phanon_mothership_desc: "§RКод доступа к звездным аннигиляторам"
+
+####################
+ 
+acot_star_overwatcher: "§RЗвездный владыка"
+acot_star_overwatcher_plural: "§RЗвездные владыки"
+ 
+ACOT_OVERWATCH_HUB: "ПЕЧЬ ФАНОНА"
+ACOT_OVERWATCH_MID: "ПЕЧЬ ФАНОНА"
+ACOT_OVERWATCH_HAMMER: "ПЕЧЬ ФАНОНА"
+ 
+acot_star_overseer: "§RЗвездный наблюдатель"
+acot_star_overseer_plural: "§RЗвездные наблюдатели"
+ 
+ACOT_OVERSEER_HUB: "ПЕЧЬ ФАНОНА"
+ACOT_OVERSEER_MID: "ПЕЧЬ ФАНОНА"
+ACOT_OVERSEER_EXTENSION: "ПЕЧЬ ФАНОНА"
+ 
+acot_star_commander: "§RОрбитальное командование Фанона"
+acot_star_commander_plural: "§RОрбитальные командования Фанона"
+ 
+ACOT_COMMANDER_HUB: "ПЕЧЬ ФАНОНА"
+
+acot_star_commander_portal: "Phanon Orbital Gateway"
+acot_star_commander_portal_plural: "Phanon Orbital Gateway"
+
+acot_pmc_small_portal: "Phanon Small Wormhole"
+acot_pmc_small_portal_plural: "Phanon Small Wormholes"
+
+acot_pmc_large_portal: "Phanon Large Wormhole"
+acot_pmc_large_portal_plural: "Phanon Large Wormholes"
+
+tech_phanon_plat_m: "§RКод доступа к легкой орбитальной обороне"
+tech_phanon_plat_m_desc: "§RКод доступа к легкой орбитальной обороне"
+
+tech_phanon_plat_l: "§RКод доступа к тяжелой орбитальной обороне"
+tech_phanon_plat_l_desc: "§RКод доступа к тяжелой орбитальной обороне"
+
+####################
+ 
+#### PHI TIER TECH #####
+
+### ENERGY - The Corps essentially channel Runic Power directly as an energy attack. To the unlearned plebs, they only links it to Psionics, hence the confusion.
+
+SMALL_ACOT_LASER_PE: "Малая Фи-лазерная пушка"
+MEDIUM_ACOT_LASER_PE: "Средняя Фи-лазерная пушка"
+LARGE_ACOT_LASER_PE: "Большая Фи-лазерная пушка"
+ACOT_LASER_PE: "Фи-лазерная пушка"
+ACOT_LASER_PE_DESC: "Фи-лазерная пушка" ###THANOS
+tech_laser_pe: "Фи-лазерная пушка"
+tech_laser_pe_desc: "Фи-лазерная пушка"
+
+SMALL_ACOT_LASER_RE: "Малая Руническая лазерная пушка"
+MEDIUM_ACOT_LASER_RE: "Средняя Руническая лазерная пушка"
+LARGE_ACOT_LASER_RE: "Большая Руническая лазерная пушка"
+ACOT_LASER_RE: "Руническая лазерная пушка"
+ACOT_LASER_RE_DESC: "Руническая лазерная пушка" ###THANOS
+tech_laser_re: "Руническая лазерная пушка"
+tech_laser_re_desc: "Руническая лазерная пушка"
+############
+SMALL_ACOT_PLASMA_PE: "Малая Фи-плазменная пушка"
+MEDIUM_ACOT_PLASMA_PE: "Средняя Фи-плазменная пушка"
+LARGE_ACOT_PLASMA_PE: "Большая Фи-плазменная пушка"
+ACOT_PLASMA_PE: "Фи-плазменная пушка"
+ACOT_PLASMA_PE_DESC: "Фи-плазменная пушка"
+tech_plasma_pe: "Фи-плазменная пушка"
+tech_plasma_pe_desc: "Фи-плазменная пушка"
+
+SMALL_ACOT_PLASMA_RE: "Малая Руническая плазменная пушка"
+MEDIUM_ACOT_PLASMA_RE: "Средняя Руническая плазменная пушка"
+LARGE_ACOT_PLASMA_RE: "Большая Руническая плазменная пушка"
+ACOT_PLASMA_RE: "Руническая плазменная пушка"
+ACOT_PLASMA_RE_DESC: "Руническая плазменная пушка"
+tech_plasma_re: "Руническая плазменная пушка"
+tech_plasma_re_desc: "Руническая плазменная пушка"
+############
+SMALL_ACOT_DISRUPTOR_PE: "Малый Фи-дезинтегрирующий луч"
+MEDIUM_ACOT_DISRUPTOR_PE: "Средний Фи-дезинтегрирующий луч" 
+LARGE_ACOT_DISRUPTOR_PE: "Большой Фи-дезинтегрирующий луч" 
+ACOT_DISRUPTOR_PE: "Фи-дезинтегрирующий луч"
+ACOT_DISRUPTOR_PE_DESC: "Фи-дезинтегрирующий луч"
+tech_disruptor_pe: "Фи-дезинтегрирующий луч"
+tech_disruptor_pe_desc: "Фи-дезинтегрирующий луч"
+
+SMALL_ACOT_DISRUPTOR_RE: "Малый Рунический дезинтегрирующий луч"
+MEDIUM_ACOT_DISRUPTOR_RE: "Средний Рунический дезинтегрирующий луч" 
+LARGE_ACOT_DISRUPTOR_RE: "Большой Рунический дезинтегрирующий луч" 
+ACOT_DISRUPTOR_RE: "Рунический дезинтегрирующий луч"
+ACOT_DISRUPTOR_RE_DESC: "Рунический дезинтегрирующий луч"
+tech_disruptor_re: "Рунический дезинтегрирующий луч"
+tech_disruptor_re_desc: "Рунический дезинтегрирующий луч"
+############
+ACOT_ENERGY_CANNON_PE: "Фи-энергетическая пушка"
+ACOT_ENERGY_CANNON_PE_DESC: "Фи-энергетическая пушка"
+tech_energy_cannon_pe: "Фи-энергетическая пушка"
+tech_energy_cannon_pe_desc: "Фи-энергетическая пушка"
+
+ACOT_ENERGY_CANNON_RE: "Руническая энергетическая пушка"
+ACOT_ENERGY_CANNON_RE_DESC: "Руническая энергетическая пушка"
+tech_energy_cannon_re: "Руническая энергетическая пушка"
+tech_energy_cannon_re_desc: "Руническая энергетическая пушка"
+############
+ACOT_ENERGY_TORPEDO_PE: "Фи-плазменная торпедная пушка"
+ACOT_ENERGY_TORPEDO_MEDIUM_PE: "Phi Plasma Torpedo Cannon"
+ACOT_ENERGY_TORPEDO_PE_DESC: "Фи-плазменная торпедная пушка"
+tech_energy_torpedo_pe: "Фи-энергетическая торпеда"
+tech_energy_torpedo_pe_desc: "Фи-энергетическая торпеда"
+
+ACOT_ENERGY_TORPEDO_RE: "Руническая энергетическая торпеда"
+ACOT_ENERGY_TORPEDO_MEDIUM_RE: "Runic Energy Torpedo"
+ACOT_ENERGY_TORPEDO_RE_DESC: "Руническая энергетическая торпеда"
+tech_energy_torpedo_re: "Руническая энергетическая торпеда"
+tech_energy_torpedo_re_desc: "Руническая энергетическая торпеда"
+############
+ACOT_POINT_DEFENSE_PE: "Фи СТЗ"
+SMALL_ACOT_POINT_DEFENSE_PE: "Фи СТЗ"
+MEDIUM_ACOT_POINT_DEFENSE_PE: "Фи СТЗ"
+ACOT_POINT_DEFENSE_PE_DESC: "Фи СТЗ"
+tech_point_defense_pe: "Фи СТЗ"
+tech_point_defense_pe_desc: "Фи СТЗ"
+
+ACOT_POINT_DEFENSE_RE: "Руническая СТЗ"
+SMALL_ACOT_POINT_DEFENSE_RE: "Руническая СТЗ"
+MEDIUM_ACOT_POINT_DEFENSE_RE: "Руническая СТЗ"
+ACOT_POINT_DEFENSE_RE_DESC: "Руническая СТЗ"
+tech_point_defense_re: "Руническая СТЗ"
+tech_point_defense_re_desc: "Руническая СТЗ"
+############
+
+### Kinetic - The actual projectiles used here are ancient runic tomestones filled with lingering presences of Phanon Imperium's souls, that of the First Men. This knowledge was given to the Corps by Urimurich. The engravings is the most important part as only the correct mark would resonate and link with the signatures of these dead souls, hence why it has to be specific.
+
+SMALL_ACOT_MASS_DRIVER_PE: "Фи-шоковая пушка"
+MEDIUM_ACOT_MASS_DRIVER_PE: "Фи-шоковая пушка"
+LARGE_ACOT_MASS_DRIVER_PE: "Фи-шоковая пушка"
+ACOT_MASS_DRIVER_PE: "Фи-шоковая пушка"
+ACOT_MASS_DRIVER_PE_DESC: "Фи-шоковая пушка"
+tech_mass_driver_pe: "Фи-шоковая пушка"
+tech_mass_driver_pe_desc: "Фи-шоковая пушка"
+
+SMALL_ACOT_MASS_DRIVER_RE: "Руническая шоковая пушка"
+MEDIUM_ACOT_MASS_DRIVER_RE: "Руническая шоковая пушка"
+LARGE_ACOT_MASS_DRIVER_RE: "Руническая шоковая пушка"
+ACOT_MASS_DRIVER_RE: "Руническая шоковая пушка"
+ACOT_MASS_DRIVER_RE_DESC: "Руническая шоковая пушка"
+tech_mass_driver_re: "Руническая шоковая пушка"
+tech_mass_driver_re_desc: "Руническая шоковая пушка"
+############
+ACOT_AUTOCANNON_PE: "Малая Фи-автопушка"
+MEDIUM_ACOT_AUTOCANNON_PE: "Средняя Фи-автопушка"
+LARGE_ACOT_AUTOCANNON_PE: "Большая Фи-автопушка"
+ACOT_AUTOCANNON_PE_DESC: "Фи-автопушка"
+tech_autocannon_pe: "Фи-автопушка"
+tech_autocannon_pe_desc: "Фи-автопушка" 
+
+ACOT_AUTOCANNON_RE: "Малая Руническая автопушка"
+MEDIUM_ACOT_AUTOCANNON_RE: "Средняя Руническая автопушка"
+LARGE_ACOT_AUTOCANNON_RE: "Большая Руническая автопушка"
+ACOT_AUTOCANNON_RE_DESC: "Руническая автопушка"
+tech_autocannon_re: "Руническая автопушка"
+tech_autocannon_re_desc: "Руническая автопушка"
+############
+ACOT_MACROCANNON_PE: "Фи-макропушка"
+ACOT_MACROCANNON_PE_MEDIUM: "Фи-макропушка"
+ACOT_MACROCANNON_PE_DESC: "Фи-макропушка"
+tech_macrocannon_pe: "Фи-макропушка"
+tech_macrocannon_pe_desc: "Фи-макропушка"
+
+ACOT_MACROCANNON_RE: "Руническая макропушка"
+ACOT_MACROCANNON_RE_MEDIUM: "Руническая макропушка"
+ACOT_MACROCANNON_RE_DESC: "Руническая макропушка"
+tech_macrocannon_re: "Руническая макропушка"
+tech_macrocannon_re_desc: "Руническая макропушка"
+############
+ACOT_ARTILLERY_PE: "Фи-кинетическая артиллерия"
+ACOT_ARTILLERY_PE_DESC: "Фи-кинетическая артиллерия"
+tech_kinetic_artillery_pe: "Фи-артиллерия"
+tech_kinetic_artillery_pe_desc: "Фи-артиллерия"
+
+ACOT_ARTILLERY_RE: "Руническая артиллерия"
+ACOT_ARTILLERY_RE_DESC: "Руническая артиллерия"
+tech_kinetic_artillery_re: "Руническая артиллерия"
+tech_kinetic_artillery_re_desc: "Руническая артиллерия"
+############
+ACOT_FLAK_CANNON_PE: "Фи КСЗ"
+SMALL_ACOT_FLAK_CANNON_PE: "Фи КСЗ"
+MEDIUM_ACOT_FLAK_CANNON_PE: "Средняя Фи КСЗ"
+ACOT_FLAK_CANNON_PE_DESC: "Фи КСЗ"
+tech_flak_batteries_pe: "Фи КСЗ"
+tech_flak_batteries_pe_desc: "Фи КСЗ"
+
+ACOT_FLAK_CANNON_RE: "Руническая КСЗ"
+SMALL_ACOT_FLAK_CANNON_RE: "Руническая КСЗ"
+MEDIUM_ACOT_FLAK_CANNON_RE: "Средняя Руническая КСЗ"
+ACOT_FLAK_CANNON_RE_DESC: "Руническая КСЗ"
+tech_flak_batteries_re: "Руническая КСЗ"
+tech_flak_batteries_re_desc: "Руническая КСЗ"
+############
+
+### Kinetic - Phanon Missiles are just generally speaking, psionic guided. And they make use of a combination of mixtures that are more powerful than what can be found on pleb galaxies.
+
+ACOT_MISSILE_PE: "Фи-ракеты"
+MEDIUM_ACOT_MISSILE_PE: "Фи-ракеты"
+ACOT_MISSILE_PE_DESC: "Фи-ракеты"
+tech_missile_pe: "Фи-ракеты"
+tech_missile_pe_desc: "Фи-ракеты"
+
+ACOT_MISSILE_RE: "Рунические ракеты"
+MEDIUM_ACOT_MISSILE_RE: "Рунические ракеты"
+ACOT_MISSILE_RE_DESC: "Рунические ракеты"
+tech_missile_re: "Рунические ракеты"
+tech_missile_re_desc: "Рунические ракеты"
+############
+ACOT_TORPEDO_PE: "Фи-торпеда"
+ACOT_TORPEDO_MEDIUM_PE: "Phi Torpedo"
+ACOT_TORPEDO_PE_DESC: "Фи-торпеда"
+tech_torpedo_pe: "Фи-торпеда"
+tech_torpedo_pe_desc: "Фи-торпеда"
+
+ACOT_TORPEDO_RE: "Руническая торпеда"
+ACOT_TORPEDO_MEDIUM_RE: "Runic Torpedo"
+ACOT_TORPEDO_RE_DESC: "Руническая торпеда"
+tech_torpedo_re: "Руническая торпеда"
+tech_torpedo_re_desc: "Руническая торпеда"
+############
+ACOT_MISSILE_BARRAGE_PE: "Фи-системы ракетного заграждения"
+ACOT_MISSILE_BARRAGE_PE_DESC: "Фи-системы ракетного заграждения"
+tech_barrage_missile_pe: "Фи-системы ракетного заграждения"
+tech_barrage_missile_pe_desc: "Фи-системы ракетного заграждения"
+
+ACOT_MISSILE_BARRAGE_RE: "Рунические системы ракетного заграждения"
+ACOT_MISSILE_BARRAGE_RE_DESC: "Рунические системы ракетного заграждения"
+tech_barrage_missile_re: "Рунические системы ракетного заграждения"
+tech_barrage_missile_re_desc: "Рунические системы ракетного заграждения"
+############
+ACOT_MISSILE_XL_PE: "Фи-ракетное копье"
+ACOT_MISSILE_XL_PE_DESC: "Фи-ракетное копье"
+tech_xl_missile_pe: "Фи-ракетное копье"
+tech_xl_missile_pe_desc: "Фи-ракетное копье"
+
+ACOT_MISSILE_XL_RE: "Руническое ракетное копье"
+ACOT_MISSILE_XL_RE_DESC: "Руническое ракетное копье"
+tech_xl_missile_re: "Руническое ракетное копье"
+tech_xl_missile_re_desc: "Руническое ракетное копье"
+############
+ACOT_MISSILE_NUKE_PE: "Фи Гига-ракетная установка"
+ACOT_MISSILE_NUKE_PE_DESC: "Фи Гига-ракетная установка"
+tech_missile_nuke_pe: "Фи Гига-ракетная установка"
+tech_missile_nuke_pe_desc: "Фи Гига-ракетная установка"
+
+ACOT_MISSILE_NUKE_RE: "Руническая Гига-ракетная установка"
+ACOT_MISSILE_NUKE_RE_DESC: "Руническая Гига-ракетная установка"
+tech_missile_nuke_re: "Руническая Гига-ракетная установка"
+tech_missile_nuke_re_desc: "Руническая Гига-ракетная установка"
+############
+
+### Strikecrafts - Corps Strikecrafts is controlled by a Dutymen brain in addition to improved weaponry and usual VR interface.
+
+ACOT_FIGHTERS_HANGAR_PE: "Фи-истребители"
+ACOT_FIGHTERS_HANGAR_PE_DESC: "Фи-истребители"
+tech_strike_craft_fighter_pe: "Фи-истребители"
+tech_strike_craft_fighter_pe_desc: "Фи-истребители"
+
+ACOT_FIGHTERS_HANGAR_RE: "Рунические истребители"
+ACOT_FIGHTERS_HANGAR_RE_DESC: "Рунические истребители"
+tech_strike_craft_fighter_re: "Рунические истребители"
+tech_strike_craft_fighter_re_desc: "Рунические истребители"
+############
+ACOT_SCOUT_HANGAR_PE: "Фи-перехватчики"
+ACOT_SCOUT_HANGAR_PE_DESC: "Фи-перехватчики"
+tech_strike_craft_scout_pe: "Фи-перехватчики"
+tech_strike_craft_scout_pe_desc: "Фи-перехватчики"
+
+ACOT_SCOUT_HANGAR_RE: "Рунические перехватчики"
+ACOT_SCOUT_HANGAR_RE_DESC: "Рунические перехватчики"
+tech_strike_craft_scout_re: "Рунические перехватчики"
+tech_strike_craft_scout_re_desc: "Рунические перехватчики"
+############
+ACOT_BOMBERS_HANGAR_PE: "Фи-бомбардировщики"
+ACOT_BOMBERS_HANGAR_PE_DESC: "Фи-бомбардировщики"
+tech_strike_craft_bomber_pe: "Фи-бомбардировщики"
+tech_strike_craft_bomber_pe_desc: "Фи-бомбардировщики"
+
+ACOT_BOMBERS_HANGAR_RE: "Рунические бомбардировщики"
+ACOT_BOMBERS_HANGAR_RE_DESC: "Рунические бомбардировщики"
+tech_strike_craft_bomber_re: "Рунические бомбардировщики"
+tech_strike_craft_bomber_re_desc: "Рунические бомбардировщики"
+############
+ACOT_GUNSHIP_HANGAR_PE: "Фи-штурмовики"
+ACOT_GUNSHIP_HANGAR_PE_DESC: "Фи-штурмовики"
+tech_strike_craft_gunship_pe: "Фи-штурмовики"
+tech_strike_craft_gunship_pe_desc: "Фи-штурмовики"
+
+ACOT_GUNSHIP_HANGAR_RE: "Рунические штурмовики"
+ACOT_GUNSHIP_HANGAR_RE_DESC: "Рунические штурмовики"
+tech_strike_craft_gunship_re: "Рунические штурмовики"
+tech_strike_craft_gunship_re_desc: "Рунические штурмовики"
+############
+ACOT_PARTICLE_LANCE_PE: "Фи-энергетическое копье"
+ACOT_PARTICLE_LANCE_PE_DESC: "Фи-энергетическое копье"
+tech_energy_lance_pe: "Фи-энергетическое копье"
+tech_energy_lance_pe_desc: "Фи-энергетическое копье"
+
+ACOT_PARTICLE_LANCE_RE: "Руническое энергетическое копье"
+ACOT_PARTICLE_LANCE_RE_DESC: "Руническое энергетическое копье"
+tech_energy_lance_re: "Руническое энергетическое копье"
+tech_energy_lance_re_desc: "Руническое энергетическое копье"
+############
+ACOT_ARC_EMITTER_PE: "Фи-шоковый излучатель"
+ACOT_ARC_EMITTER_PE_DESC: "Фи-шоковый излучатель"
+tech_arc_emitter_pe: "Фи-излучатель"
+tech_arc_emitter_pe_desc: "Фи-излучатель"
+
+ACOT_ARC_EMITTER_RE: "Рунический излучатель"
+ACOT_ARC_EMITTER_RE_DESC: "Рунический излучатель"
+tech_arc_emitter_re: "Рунический излучатель"
+tech_arc_emitter_re_desc: "Рунический излучатель"
+############
+ACOT_MASS_ACCELERATOR_PE: "Фи-ускоритель массы"
+ACOT_MASS_ACCELERATOR_PE_DESC: "Фи-ускоритель массы"
+tech_mass_accelerator_pe: "Фи-ускоритель массы"
+tech_mass_accelerator_pe_desc: "Фи-ускоритель массы"
+
+ACOT_MASS_ACCELERATOR_RE: "Рунический ускоритель массы"
+ACOT_MASS_ACCELERATOR_RE_DESC: "Рунический ускоритель массы"
+tech_mass_accelerator_re: "Рунический ускоритель массы"
+tech_mass_accelerator_re_desc: "Рунический ускоритель массы"
+############
+ACOT_PERDITION_BEAM_PE: "Фи-гибельный луч"
+ACOT_PERDITION_BEAM_PE_DESC: "Фи-гибельный луч"
+tech_perdition_beam_pe: "Фи-гибельный луч"
+tech_perdition_beam_pe_desc: "Фи-гибельный луч"
+
+ACOT_PERDITION_BEAM_RE: "Рунический гибельный луч"
+ACOT_PERDITION_BEAM_RE_DESC: "Рунический гибельный луч"
+tech_perdition_beam_re: "Рунический гибельный луч"
+tech_perdition_beam_re_desc: "Рунический гибельный луч"
+############
+ACOT_TITAN_EMITTER_PE: "Фи-излучатель титана"
+ACOT_TITAN_EMITTER_PE_DESC: "Фи-излучатель титана"
+tech_titan_emitter_pe: "Фи-излучатель титана"
+tech_titan_emitter_pe_desc: "Фи-излучатель титана"
+
+ACOT_TITAN_EMITTER_RE: "Рунический излучатель титана"
+ACOT_TITAN_EMITTER_RE_DESC: "Рунический излучатель титана"
+tech_titan_emitter_re: "Рунический излучатель титана"
+tech_titan_emitter_re_desc: "Рунический излучатель титана"
+############
+ACOT_TITAN_ACCELERATOR_PE: "Фи-ускорительная пушка Титана"
+ACOT_TITAN_ACCELERATOR_PE_DESC: "Фи-ускорительная пушка Титана"
+tech_titan_accelerator_pe: "Фи-ускорительная пушка Титана"
+tech_titan_accelerator_pe_desc: "Фи-ускорительная пушка Титана"
+
+ACOT_TITAN_ACCELERATOR_RE: "Руническая ускорительная пушка Титана"
+ACOT_TITAN_ACCELERATOR_RE_DESC: "Руническая ускорительная пушка Титана"
+tech_titan_accelerator_re: "Руническая ускорительная пушка Титана"
+tech_titan_accelerator_re_desc: "Руническая ускорительная пушка Титана"
+ 
+############
+
+ACOT_PMC_YAMATO_CANNON: "Пушка Ямато"
+ACOT_PMC_YAMATO_CANNON_DESC: "Пушка Ямато"
+tech_pmc_yamato_cannon: "Пушка Ямато"
+tech_pmc_yamato_cannon_desc: "Пушка Ямато"
+ 
+ACOT_PHANON_DECIMATOR_CANNON: "Игнем Этернум"
+ACOT_PHANON_DECIMATOR_CANNON_DESC: "Игнем Этернум"
+ACOT_PHANON_DECIMATOR_CANNON_RESIZED: "Игнем Этернум"
+ACOT_PHANON_DECIMATOR_CANNON_RESIZED_DESC: "Игнем Этернум"
+tech_pmc_decimator_beam: "Игнем Этернум"
+tech_pmc_decimator_beam_desc: "Игнем Этернум"
+ 
+############
+
+SMALL_ACOT_ENIGMATIC_SHIELD_PE: "Малые Фи-щиты"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_PE: "Средние Фи-щиты"
+LARGE_ACOT_ENIGMATIC_SHIELD_PE: "Большие Фи-щиты"
+ACOT_ENIGMATIC_SHIELD_PE: "Фи-щиты"
+ACOT_ENIGMATIC_SHIELD_PE_DESC: "Фи-щиты"
+tech_dark_matter_deflector_pe: "Фи-щиты"
+tech_dark_matter_deflector_pe_desc: "Фи-щиты"
+
+SMALL_ACOT_ENIGMATIC_SHIELD_RE: "Малые Рунические щиты"
+MEDIUM_ACOT_ENIGMATIC_SHIELD_RE: "Средние Рунические щиты"
+LARGE_ACOT_ENIGMATIC_SHIELD_RE: "Большие Рунические щиты"
+ACOT_ENIGMATIC_SHIELD_RE: "Рунические щиты"
+ACOT_ENIGMATIC_SHIELD_RE_DESC: "Рунические щиты"
+tech_dark_matter_deflector_re: "Рунические щиты"
+tech_dark_matter_deflector_re_desc: "Рунические щиты"
+ 
+############
+
+SMALL_ACOT_ARMOR_PE: "Малая Фи-броня"
+MEDIUM_ACOT_ARMOR_PE: "Средняя Фи-броня"
+LARGE_ACOT_ARMOR_PE: "Большая Фи-броня"
+ACOT_ARMOR_PE: "Фи-броня"
+ACOT_ARMOR_PE_DESC: "Фи-броня"
+tech_armor_pe: "Фи-броня"
+tech_armor_pe_desc: "Фи-броня"
+
+
+SMALL_ACOT_ARMOR_RE: "Малая Руническая броня"
+MEDIUM_ACOT_ARMOR_RE: "Средняя Руническая броня"
+LARGE_ACOT_ARMOR_RE: "Большая Руническая броня"
+ACOT_ARMOR_RE: "Руническая броня"
+ACOT_ARMOR_RE_DESC: "Руническая броня"
+tech_armor_re: "Руническая броня"
+tech_armor_re_desc: "Руническая броня"
+ 
+############
+
+MALL_ACOT_HULL_POWER_PE: "Small Phi HLP Platings"
+MEDIUM_ACOT_HULL_POWER_PE: "Medium Phi HLP Platings"
+LARGE_ACOT_HULL_POWER_PE: "Large Phi HLP Platings"
+ACOT_HULL_POWER_PE: "Phi HLP Platings"
+ACOT_HULL_POWER_PE_DESC: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+tech_hull_power_pe: "Hard-Light Power Platings"
+tech_hull_power_pe_desc: "One of the more peculiar concepts that gets brought up is the idea of shooting two birds with one stone and solve the issues of increasingly demanding power consumption of ships as well as the ship's hull integrity at the same time. In the past, trying to tackle these issues typically results in massively increasing the costs or alterations of the ship's overall physical shapes that make them unfeasible. But with some tinkering with dimensional space, perhaps it will be possible to create a new type of hull platings that not only provide increased durability, but also doubles as powerful power generators without compromising the ship's hardpoints."
+
+SMALL_ACOT_HULL_POWER_RE: "Small Runic HLP Platings"
+MEDIUM_ACOT_HULL_POWER_RE: "Medium Runic HLP Platings"
+LARGE_ACOT_HULL_POWER_RE: "Large Runic HLP Platings"
+ACOT_HULL_POWER_RE: "Runic HLP Platings"
+ACOT_HULL_POWER_RE_DESC: "Hard-Light is a dynamic material constructed out of pure solid light. It is much denser and harder when fully formed than neutronium."
+tech_hull_power_re: "Hard-Light Power Platings"
+tech_hull_power_re_desc: "One of the more peculiar concepts that gets brought up is the idea of shooting two birds with one stone and solve the issues of increasingly demanding power consumption of ships as well as the ship's hull integrity at the same time. In the past, trying to tackle these issues typically results in massively increasing the costs or alterations of the ship's overall physical shapes that make them unfeasible. But with some tinkering with dimensional space, perhaps it will be possible to create a new type of hull platings that not only provide increased durability, but also doubles as powerful power generators without compromising the ship's hardpoints."
+
+############
+
+SMALL_ACOT_ARMOR_HULL_RE: "Small Cybros Hull"
+MEDIUM_ACOT_ARMOR_HULL_RE: "Medium Cybros Hull"
+LARGE_ACOT_ARMOR_HULL_RE: "Large Cyrbros Hull"
+ACOT_ARMOR_HULL_RE: "Cybros Hull"
+ACOT_ARMOR_HULL_RE_DESC: "Cybros Hull"
+tech_armor_hull_re: "Cybros Hull"
+tech_armor_hull_re_desc: "Cybros Hull"
+ 
+############
+PE_OFFENSIVE_COMBAT_COMPUTER: "Фи-боевой аналитический компьютер"
+PE_OFFENSIVE_COMBAT_COMPUTER_DESC: "Фи-боевой аналитический компьютер"
+PE_BALANCE_COMBAT_COMPUTER: "Фи-боевой аналитический компьютер"
+PE_BALANCE_COMBAT_COMPUTER_DESC: "Фи-боевой аналитический компьютер"
+PE_DEFENSIVE_COMBAT_COMPUTER: "Фи-боевой аналитический компьютер"
+PE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Фи-боевой аналитический компьютер"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Фи-боевой аналитический компьютер"
+PE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Фи-боевой аналитический компьютер"
+PE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Фи-боевой аналитический компьютер"
+PE_BALANCE_COMBA_COMPUTERT_BATTLECRUISER_DESC: "Фи-боевой аналитический компьютер"
+PE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Фи-боевой аналитический компьютер"
+PE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Фи-боевой аналитический компьютер"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Фи-боевой аналитический компьютер"
+PE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Фи-боевой аналитический компьютер"
+PE_BALANCE_COMBAT_COMPUTER_TITAN: "Фи-боевой аналитический компьютер"
+PE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Фи-боевой аналитический компьютер"
+PE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Фи-боевой аналитический компьютер"
+PE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Фи-боевой аналитический компьютер"
+ 
+PE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Фи-боевой аналитический компьютер"
+PE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Фи-боевой аналитический компьютер"
+PE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Фи-боевой аналитический компьютер"
+PE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Фи-боевой аналитический компьютер"
+PE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Фи-боевой аналитический компьютер"
+PE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Фи-боевой аналитический компьютер"
+
+PE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Фи-боевой аналитический компьютер"
+PE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Фи-боевой аналитический компьютер"
+PE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Фи-боевой аналитический компьютер"
+PE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Фи-боевой аналитический компьютер"
+tech_computer_phi: "Фи-боевой аналитический компьютер"
+tech_computer_phi_desc: "Фи-боевой аналитический компьютер"
+TECH_UNLOCK_PHI_COMPUTER_TITLE: "§HРазблокирует компонент:§! Фи-боевой аналитический компьютер"
+TECH_UNLOCK_PHI_COMPUTER_TITLE_DESC: "Фи-боевой аналитический компьютер\n$PE_OFFENSIVE_COMBAT_COMPUTER_DESC$"
+
+RE_OFFENSIVE_COMBAT_COMPUTER: "Рунический боевой аналитический компьютер"
+RE_OFFENSIVE_COMBAT_COMPUTER_DESC: "Рунический боевой аналитический компьютер"
+RE_BALANCE_COMBAT_COMPUTER: "Рунический боевой аналитический компьютер"
+RE_BALANCE_COMBAT_COMPUTER_DESC: "Рунический боевой аналитический компьютер"
+RE_DEFENSIVE_COMBAT_COMPUTER: "Рунический боевой аналитический компьютер"
+RE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Рунический боевой аналитический компьютер"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Рунический боевой аналитический компьютер"
+RE_OFFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Рунический боевой аналитический компьютер"
+RE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER: "Рунический боевой аналитический компьютер"
+RE_BALANCE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Рунический боевой аналитический компьютер"
+RE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER: "Рунический боевой аналитический компьютер"
+RE_DEFENSIVE_COMBAT_COMPUTER_BATTLECRUISER_DESC: "Рунический боевой аналитический компьютер"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_TITAN: "Рунический боевой аналитический компьютер"
+RE_OFFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Рунический боевой аналитический компьютер"
+RE_BALANCE_COMBAT_COMPUTER_TITAN: "Рунический боевой аналитический компьютер"
+RE_BALANCE_COMBAT_COMPUTER_TITAN_DESC: "Рунический боевой аналитический компьютер"
+RE_DEFENSIVE_COMBAT_COMPUTER_TITAN: "Рунический боевой аналитический компьютер"
+RE_DEFENSIVE_COMBAT_COMPUTER_TITAN_DESC: "Рунический боевой аналитический компьютер"
+ 
+RE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH: "Рунический боевой аналитический компьютер"
+RE_OFFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Рунический боевой аналитический компьютер"
+RE_BALANCE_COMBAT_COMPUTER_GOLIATH: "Рунический боевой аналитический компьютер"
+RE_BALANCE_COMBAT_COMPUTER_GOLIATH_DESC: "Рунический боевой аналитический компьютер"
+RE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH: "Рунический боевой аналитический компьютер"
+RE_DEFENSIVE_COMBAT_COMPUTER_GOLIATH_DESC: "Рунический боевой аналитический компьютер"
+ 
+RE_STARBASE_DEFENSIVE_COMBAT_COMPUTER: "Рунический боевой аналитический компьютер"
+RE_STARBASE_DEFENSIVE_COMBAT_COMPUTER_DESC: "Рунический боевой аналитический компьютер"
+RE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER: "Рунический боевой аналитический компьютер"
+RE_PLATFORM_DEFENSIVE_COMBAT_COMPUTER_DESC: "Рунический боевой аналитический компьютер"
+ 
+BASE_COMBAT_COMPUTER_COLOSSUS_RE: "Рунический боевой аналитический компьютер"
+BASE_COMBAT_COMPUTER_COLOSSUS_RE_DESC: "Рунический боевой аналитический компьютер"
+HERCULEAN_COMBAT_COMPUTER_RE: "Рунический боевой аналитический компьютер"
+HERCULEAN_COMBAT_COMPUTER_RE_DESC: "Рунический боевой аналитический компьютер"
+ 
+PAC_COMBAT_COMPUTER_DEFENSE_RE: "Рунический боевой аналитический компьютер"
+PAC_COMBAT_COMPUTER_DEFENSE_RE_DESC: "Рунический боевой аналитический компьютер"
+PAC_COMBAT_COMPUTER_OFFENSE_RE: "Рунический боевой аналитический компьютер"
+PAC_COMBAT_COMPUTER_OFFENSE_RE_DESC: "Рунический боевой аналитический компьютер"
+tech_computer_runic: "Рунический боевой аналитический компьютер"
+tech_computer_runic_desc: "Рунический боевой аналитический компьютер"
+TECH_UNLOCK_RUNIC_COMPUTER_TITLE: "§HРазблокирует компонент:§! Рунический боевой аналитический компьютер"
+TECH_UNLOCK_RUNIC_COMPUTER_TITLE_DESC: "Рунический боевой аналитический компьютер\n$ENIGMATIC_DRIVE_PE_DESRE_DEFENSIVE_COMBAT_COMPUTER_DESCC$"
+ 
+############
+ACOT_ENIGMATIC_DRIVE_PE: "Фи-высокоточный прыжковый двигатель"
+ACOT_ENIGMATIC_DRIVE_PE_DESC: "Фи-высокоточный прыжковый двигатель"
+tech_enigmatic_drive_pe: "Фи-высокоточный прыжковый двигатель"
+tech_enigmatic_drive_pe_desc: "Фи-высокоточный прыжковый двигатель"
+TECH_UNLOCK_ENIG_DRIVE_PE: "§HРазблокирует компонент:§! Фи-высокоточный прыжковый двигатель"
+TECH_UNLOCK_ENIG_DRIVE_PE_DESC: "Фи-высокоточный прыжковый двигатель\n$ENIGMATIC_DRIVE_PE_DESC$"
+
+ACOT_ENIGMATIC_DRIVE_RE: "Транслокатор Фанона"
+ACOT_ENIGMATIC_DRIVE_RE_DESC: "Транслокатор Фанона"
+tech_enigmatic_drive_re: "Транслокатор Фанона"
+tech_enigmatic_drive_re_desc: "Транслокатор Фанона"
+TECH_UNLOCK_ENIG_DRIVE_RE: "§HРазблокирует компонент:§! Транслокационный двигатель Фанона"
+TECH_UNLOCK_ENIG_DRIVE_RE_DESC: "§HТранслокационный двигатель Фанона§!\n$ENIGMATIC_DRIVE_RE_DESC$"
+
+############
+ACOT_WEAPON_CORE_PE: "Phi Hypermixed Weapon Calibrator"
+ACOT_WEAPON_EXPLOSIVE_CORE_PE_DESC: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+tech_weapon_core_pe: "Phi Hypermixed Weapon Calibrator"
+tech_weapon_core_pe_desc: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+
+ACOT_WEAPON_CORE_RE: "Runic Hypermixed Weapon Calibrator"
+ACOT_WEAPON_CORE_RE_DESC: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+tech_weapon_core_re: "Runic Hypermixed Weapon Calibrator"
+tech_weapon_core_re_desc: "Using other strategic resources in tandem can create a rather unorthordox but effective calibrations to ship's weapon systems. The volatile mixtures from these systems may degrade hull strength, however."
+############
+ACOT_WEAPON_EXPLOSIVE_CORE_PE: "Фи-взрывное ядро"
+ACOT_WEAPON_EXPLOSIVE_CORE_PE_DESC: "Фи-взрывное ядро"
+tech_missile_core_pe: "Фи-взрывное ядро"
+tech_missile_core_pe_desc: "Фи-взрывное ядро"
+
+ACOT_WEAPON_EXPLOSIVE_CORE_RE: "Руническое взрывное ядро"
+ACOT_WEAPON_EXPLOSIVE_CORE_RE_DESC: "Руническое взрывное ядро"
+tech_missile_core_re: "Руническое взрывное ядро"
+tech_missile_core_re_desc: "Руническое взрывное ядро"
+############
+ACOT_WEAPON_KINETIC_CORE_PE: "Фи-кинетический усилитель"
+ACOT_WEAPON_KINETIC_CORE_PE_DESC: "Фи-кинетический усилитель"
+tech_kinetic_core_pe: "Фи-кинетический усилитель"
+tech_kinetic_core_pe_desc: "Фи-кинетический усилитель"
+
+ACOT_WEAPON_KINETIC_CORE_RE: "Рунический кинетический усилитель"
+ACOT_WEAPON_KINETIC_CORE_RE_DESC: "Рунический кинетический усилитель"
+tech_kinetic_core_re: "Рунический кинетический усилитель"
+tech_kinetic_core_re_desc: "Рунический кинетический усилитель"
+############ 
+tech_energy_core_pe: "Фи-пепсис ядро"
+tech_energy_core_pe_desc: "Фи-пепсис ядро"
+ACOT_WEAPON_ENERGY_CORE_PE: "Фи-пепсис ядро"
+ACOT_WEAPON_ENERGY_CORE_PE_DESC: "Фи-пепсис ядро"
+
+ACOT_WEAPON_ENERGY_CORE_RE: "Руническое пепсис ядро"
+ACOT_WEAPON_ENERGY_CORE_RE_DESC: "Руническое пепсис ядро"
+tech_energy_core_re: "Руническое пепсис ядро"
+tech_energy_core_re_desc: "Руническое пепсис ядро"
+############ 
+ACOT_WEAPON_FIGHTER_CORE_PE: "Фи-улучшенный ангарный компьютер"
+ACOT_WEAPON_FIGHTER_CORE_PE_DESC: "Фи-улучшенный ангарный компьютер"
+tech_fighter_core_pe: "Фи-улучшенный ангарный компьютер"
+tech_fighter_core_pe_desc: "Фи-улучшенный ангарный компьютер"
+
+WEAPON_FIGHTER_CORE_RE: "Рунический улучшенный ангарный компьютер"
+WEAPON_FIGHTER_CORE_RE_DESC: "Рунический улучшенный ангарный компьютер"
+tech_fighter_core_re: "Рунический улучшенный ангарный компьютер"
+tech_fighter_core_re_desc: "Рунический улучшенный ангарный компьютер"
+############ 
+ACOT_SHIP_THRUSTER_PE: "Фи-двигатели"
+ACOT_SHIP_THRUSTER_PE_DESC: "Фи-двигатели"
+tech_thrusters_pe: "Фи-двигатели"
+tech_thrusters_pe_desc: "Фи-двигатели"
+TECH_UNLOCK_PE_THRUSTER_TITLE: "Фи-двигатели"
+TECH_UNLOCK_PE_THRUSTER_DESC: "Фи-двигатели"
+
+ACOT_SHIP_THRUSTER_RE: "Рунические двигатели"
+ACOT_SHIP_THRUSTER_RE_DESC: "Рунические двигатели"
+tech_thrusters_re: "Рунические двигатели"
+tech_thrusters_re_desc: "Рунические двигатели"
+TECH_UNLOCK_RE_THRUSTER_TITLE: "Рунические двигатели"
+TECH_UNLOCK_RE_THRUSTER_DESC: "Рунические двигатели"
+
+############
+ACOT_SENSOR_PE: "Фи-сенсоры"
+ACOT_SENSOR_PE_DESC: "Фи-сенсоры"
+tech_sensor_pe: "Бионические сенсоры Фанона"
+tech_sensor_pe_desc: "Бионические сенсоры Фанона"
+TECH_UNLOCK_PE_SENSOR_TITLE: "§HРазблокирует компонент:§! Фи-сенсоры"
+TECH_UNLOCK_PE_SENSOR_DESC: "§HФи-сенсоры§!\n$PE_SENSOR_SHIP_DESC$"
+
+ACOT_SENSOR_RE: "Бионические сенсоры Фанона"
+ACOT_SENSOR_RE_DESC: "Бионические сенсоры Фанона"
+tech_sensor_re: "Бионические сенсоры Фанона"
+tech_sensor_re_desc: "Бионические сенсоры Фанона"
+TECH_UNLOCK_RE_SENSOR_TITLE: "§HРазблокирует компонент:§! Бионические сенсоры Фанона"
+TECH_UNLOCK_RE_SENSOR_DESC: "§HБионические сенсоры Фанона§!\n$RE_SENSOR_SHIP_DESC$"
+############
+CORVETTE_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+CORVETTE_DARK_MATTER_REACTOR_RE_DESC: "Фи-реактор"
+DESTROYER_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+DESTROYER_DARK_MATTER_REACTOR_PE_DESC: "Фи-реактор"
+CRUISER_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+CRUISER_DARK_MATTER_REACTOR_PE_DESC: "Фи-реактор"
+BATTLESHIP_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+BATTLESHIP_DARK_MATTER_REACTOR_PE_DESC: "Фи-реактор"
+TITAN_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+TITAN_DARK_MATTER_REACTOR_PE_DESC: "Фи-реактор"
+COLOSSUS_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+COLOSSUS_DARK_MATTER_REACTOR_PE_DESC: "Фи-реактор"
+PLATFORM_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+PLATFORM_DARK_MATTER_REACTOR_PE_DESC: "Фи-реактор"
+ION_CANNON_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+ION_CANNON_DARK_MATTER_REACTOR_PE_DESC: "Фи-реактор"
+STARBASE_DARK_MATTER_REACTOR_PE: "Фи-реактор"
+STARBASE_DARK_MATTER_REACTOR_PE_DESC: "Фи-реактор"
+tech_dark_matter_power_core_pe: "Рунический реактор Фанона"
+tech_dark_matter_power_core_pe_desc: "Мы продаем силу. Мы - супердержава по найму."
+TECH_UNLOCK_DARK_MATTER_POWER_PE_TITLE: "Разблокирует технологии Фанона."
+TECH_UNLOCK_DARK_MATTER_POWER_PE_DESC: "Станьте Феноменальным."
+
+CORVETTE_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+CORVETTE_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+DESTROYER_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+DESTROYER_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+CRUISER_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+CRUISER_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+BATTLESHIP_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+BATTLESHIP_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+TITAN_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+TITAN_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+COLOSSUS_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+COLOSSUS_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+PLATFORM_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+PLATFORM_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+ION_CANNON_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+ION_CANNON_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+STARBASE_DARK_MATTER_REACTOR_RE: "Рунический реактор Фанона"
+STARBASE_DARK_MATTER_REACTOR_RE_DESC: "Рунический реактор Фанона"
+tech_dark_matter_power_core_re: "Рунический реактор Фанона"
+tech_dark_matter_power_core_re_desc: "Мы продаем силу. Мы - супердержава по найму."
+TECH_UNLOCK_DARK_MATTER_POWER_RE_TITLE: "Разблокирует технологии Фанона."
+TECH_UNLOCK_DARK_MATTER_POWER_RE_DESC: "Станьте Феноменальным."
+
+############
+ACOT_AFTERBURNERS_PE: "Фи-форсажные камеры"
+ACOT_AFTERBURNERS_PE_DESC: "Фи-форсажные камеры"
+ACOT_AFTERBURNERS_AURA_PE: "Delta Subspace Amplifier"
+ACOT_AFTERBURNERS_AURA_PE_DESC: "Specialized components used to help enhance the sublight speed of the fleets."
+tech_darkmatter_afterburners_pe: "Фи-форсажные камеры"
+tech_darkmatter_afterburners_pe_desc: "Фи-форсажные камеры"
+
+ACOT_AFTERBURNERS_RE: "Рунические форсажные камеры"
+ACOT_AFTERBURNERS_RE_DESC: "Рунические форсажные камеры"
+ACOT_AFTERBURNERS_AURA_RE: "Runic Subspace Amplifier"
+ACOT_AFTERBURNERS_AURA_RE_DESC: "Specialized components used to help enhance the sublight speed of the fleets."
+tech_darkmatter_afterburners_re: "Рунические форсажные камеры"
+tech_darkmatter_afterburners_re_desc: "Рунические форсажные камеры"
+############
+ACOT_HYPERCHARGED_JUMPER_PE: "Фи-перегруженный усилитель"
+ACOT_HYPERCHARGED_JUMPER_PE_DESC: "Фи-перегруженный усилитель"
+ACOT_HYPERCHARGED_JUMPER_AURA_PE: "Jump Stabilizer"
+ACOT_HYPERCHARGED_JUMPER_AURA_PE_DESC: "Jump Stabilizers can be installed on capital ships with proper modules to increase the fleet's jumping range."
+tech_darkmatter_hyper_jump_drive_pe: "Фи-перегруженный усилитель"
+tech_darkmatter_hyper_jump_drive_pe_desc: "Фи-перегруженный усилитель"
+
+ACOT_HYPERCHARGED_JUMPER_RE: "Перегруженный усилитель Фанона"
+ACOT_HYPERCHARGED_JUMPER_RE_DESC: "Перегруженный усилитель Фанона"
+ACOT_HYPERCHARGED_JUMPER_AURA_RE: "Jump Stabilizer"
+ACOT_HYPERCHARGED_JUMPER_AURA_RE_DESC: "Jump Stabilizers can be installed on capital ships with proper modules to increase the fleet's jumping range."
+tech_darkmatter_hyper_jump_drive_re: "Перегруженный усилитель Фанона"
+tech_darkmatter_hyper_jump_drive_re_desc: "Перегруженный усилитель Фанона"
+
+############
+ACOT_REPAIR_COUNTERMEASURES_PE: "Фи-реактивные контрмеры"
+ACOT_REPAIR_COUNTERMEASURES_PE_DESC: "Фи-реактивные контрмеры"
+ACOT_REPAIR_COUNTERMEASURES_AURA_PE: "Phi Fleet RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_PE_DESC: "Specialized components used to house large networks of RCDs to support the fleet. Not as efficient as individual ship's RCD systems, but can be quite useful in large fleets."
+tech_darkmatter_reactive_drone_pe: "Фи-реактивные контрмеры"
+tech_darkmatter_reactive_drone_pe_desc: "Фи-реактивные контрмеры"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_PE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_REPAIR_COUNTERMEASURES_PE$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_PE_DESC: "$ACOT_REPAIR_COUNTERMEASURES_PE_DESC$"
+
+ACOT_REPAIR_COUNTERMEASURES_RE: "Реактивные контрмеры Фанона"
+ACOT_REPAIR_COUNTERMEASURES_RE_DESC: "Реактивные контрмеры Фанона"
+ACOT_REPAIR_COUNTERMEASURES_AURA_RE: "Runic Fleet RCD"
+ACOT_REPAIR_COUNTERMEASURES_AURA_RE_DESC: "Specialized components used to house large networks of RCDs to support the fleet. Not as efficient as individual ship's RCD systems, but can be quite useful in large fleets."
+tech_darkmatter_reactive_drone_re: "Реактивные контрмеры Фанона"
+tech_darkmatter_reactive_drone_re_desc: "Реактивные контрмеры Фанона"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_RE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_REPAIR_COUNTERMEASURES_RE$"
+TECH_UNLOCK_ACOT_REPAIR_COUNTERMEASURES_RE_DESC: "$ACOT_REPAIR_COUNTERMEASURES_RE_DESC$"
+############
+ACOT_REACTOR_BOOSTER_PE: "Фи-усилитель"
+ACOT_REACTOR_BOOSTER_PE_DESC: "Фи-усилитель"
+ACOT_REACTOR_BOOSTER_AURA_PE: "Phi Supra Amplifier"
+ACOT_REACTOR_BOOSTER_AURA_PE_DESC: "In place of a typical aura component, the ship can make use of the space to install additional APA at no costs for extra power supply."
+tech_darkmatter_reactor_booster_pe: "Фи-усилитель"
+tech_darkmatter_reactor_booster_pe_desc: "Фи-усилитель"
+
+ACOT_REACTOR_BOOSTER_RE: "Усилитель Фанона"
+ACOT_REACTOR_BOOSTER_RE_DESC: "Усилитель Фанона"
+ACOT_REACTOR_BOOSTER_AURA_RE: "Runic Supra Amplifier"
+ACOT_REACTOR_BOOSTER_AURA_RE_DESC: "In place of a typical aura component, the ship can make use of the space to install additional APA at no costs for extra power supply."
+tech_darkmatter_reactor_booster_re: "Усилитель Фанона"
+tech_darkmatter_reactor_booster_re_desc: "Усилитель Фанона"
+############
+ACOT_SHIELD_BOOSTER_PE: "Фи-усилитель щитов"
+ACOT_SHIELD_BOOSTER_PE_DESC: "Фи-усилитель щитов"
+ACOT_SHIELD_BOOSTER_AURA_PE: "Phi Shield Swarm"
+ACOT_SHIELD_BOOSTER_AURA_PE_DESC: "Specialized variant of the Supercharged Shield Auxiliary Unit that sacrifices local strength for a more wide-spread effect."
+tech_darkmatter_shield_supercharger_pe: "Фи-усилитель щитов"
+tech_darkmatter_shield_supercharger_pe_desc: "Фи-усилитель щитов"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_PE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_SHIELD_BOOSTER_PE$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_PE_DESC: "$ACOT_SHIELD_BOOSTER_PE_DESC$"
+
+ACOT_SHIELD_BOOSTER_RE: "Усилитель щитов Фанона"
+ACOT_SHIELD_BOOSTER_RE_DESC: "Усилитель щитов Фанона"
+ACOT_SHIELD_BOOSTER_AURA_RE: "Runic Shield Swarm"
+ACOT_SHIELD_BOOSTER_AURA_RE_DESC: "Specialized variant of the Supercharged Shield Auxiliary Unit that sacrifices local strength for a more wide-spread effect."
+tech_darkmatter_shield_supercharger_re: "Усилитель щитов Фанона"
+tech_darkmatter_shield_supercharger_re_desc: "Усилитель щитов Фанона"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_RE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_SHIELD_BOOSTER_RE$"
+TECH_UNLOCK_ACOT_SHIELD_BOOSTER_RE_DESC: "$ACOT_SHIELD_BOOSTER_RE_DESC$"
+
+############
+
+ACOT_ARMOR_BOOSTER_PE: "Фи-сверхзаряженная броня"
+ACOT_ARMOR_BOOSTER_PE_DESC: "Сверхзарядка брони повышает мощность генераторов щитов корабля за счет потребления энергии."
+ACOT_ARMOR_BOOSTER_AURA_PE: "Phi Kinetic Barrier Swarm"
+ACOT_ARMOR_BOOSTER_AURA_PE_DESC: "Specialized variant of the Kinetic Barrier Auxiliary Unit that sacrifices local strength for a more wide-spread effect."
+tech_darkmatter_armor_supercharger_pe: "Руническая сверхзаряженная броня"
+tech_darkmatter_armor_supercharger_pe_desc: "Сверхзарядка брони повышает мощность генераторов щитов корабля за счет потребления энергии."
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_PE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_ARMOR_BOOSTER_PE$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_PE_DESC: "$ACOT_ARMOR_BOOSTER_PE_DESC$"
+
+ACOT_ARMOR_BOOSTER_RE: "Руническая сверхзаряженная броня"
+ACOT_ARMOR_BOOSTER_RE_DESC: "Сверхзарядка брони повышает мощность генераторов щитов корабля за счет потребления энергии."
+ACOT_ARMOR_BOOSTER_AURA_RE: "Runic Kinetic Barrier Swarm"
+ACOT_ARMOR_BOOSTER_AURA_RE_DESC: "Specialized variant of the Kinetic Barrier Auxiliary Unit that sacrifices local strength for a more wide-spread effect."
+tech_darkmatter_armor_supercharger_re: "Руническая сверхзаряженная броня"
+tech_darkmatter_armor_supercharger_re_desc: "Сверхзарядка брони повышает мощность генераторов щитов корабля за счет потребления энергии."
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_RE_TITLE: "$TECH_UNLOCK_COMPONENT_LINE$$ACOT_ARMOR_BOOSTER_RE$"
+TECH_UNLOCK_ACOT_ARMOR_BOOSTER_RE_DESC: "$ACOT_ARMOR_BOOSTER_RE_DESC$"
+
+############
+ACOT_STARCHARTER_PE: "Фи-звездный чартер"
+ACOT_STARCHARTER_PE_DESC: "Фи-звездный чартер"
+ACOT_STARCHARTER_AURA_PE: "Phi Sentry Network"
+ACOT_STARCHARTER_AURA_PE_DESC: "An alternative variant of the Star Charter module that amplifies fleet's tracking as a whole."
+tech_darkmatter_star_charter_pe: "Фи-звездный чартер"
+tech_darkmatter_star_charter_pe_desc: "Фи-звездный чартер"
+
+ACOT_STARCHARTER_RE: "Звездный чартер Фанона"
+ACOT_STARCHARTER_RE_DESC: "Звездный чартер Фанона"
+ACOT_STARCHARTER_AURA_RE: "Runic Sentry Network"
+ACOT_STARCHARTER_AURA_RE_DESC: "An alternative variant of the Star Charter module that amplifies fleet's tracking as a whole."
+tech_darkmatter_star_charter_re: "Звездный чартер Фанона"
+tech_darkmatter_star_charter_re_desc: "Звездный чартер Фанона"
+ 
+############
+ACOT_AURA_TECH_INHIBITOR_PE: "Фи-ингибитор сети"
+ACOT_AURA_TECH_INHIBITOR_PE_DESC: "Фи-ингибитор сети"
+tech_darkmatter_aura_energy_drainer_pe: "Фи-ингибитор сети"
+tech_darkmatter_aura_energy_drainer_pe_desc: "Фи-ингибитор сети"
+TECH_UNLOCK_ENERGY_DRAINER_PE_TITLE: "§HUnlocks Component:§! Фи-ингибитор сети"
+TECH_UNLOCK_ENERGY_DRAINER_PE_DESC: "§HФи-ингибитор сети§!\nЭто мощное устройство вмешивается в работу вражеских систем, отбирая их силы и передавая их союзным кораблям. Все ваши силы принадлежат нам."
+
+ACOT_AURA_TECH_INHIBITOR_RE: "Рунический ингибитор сети"
+ACOT_AURA_TECH_INHIBITOR_RE_DESC: "Рунический ингибитор сети"
+tech_darkmatter_aura_energy_drainer_re: "Рунический ингибитор сети"
+tech_darkmatter_aura_energy_drainer_re_desc: "Рунический ингибитор сети"
+TECH_UNLOCK_ENERGY_DRAINER_RE_TITLE: "§HРазблокирует компонент:§! Рунический ингибитор сети"
+TECH_UNLOCK_ENERGY_DRAINER_RE_DESC: "§HРунический ингибитор сети§!\nЭто мощное устройство вмешивается в работу вражеских систем, отбирая их силы и передавая их союзным кораблям. Все ваши силы принадлежат нам."
+
+########## REVISED PHANON
+
+#### PHI TIER TECH #####
+ 
+tech_precursor_phanon_design_pe_1: "Предварительный анализ Фи-технологий"
+tech_precursor_phanon_design_pe_1_desc: "Несмотря на подавляющий масштаб и огневую мощь, демонстрируемую армадой Корпуса Фанона, похоже, что многие из их технологий не так уж и заумны в своих конструкциях. Однако большинство их оборудования самоуничтожается при уничтожении корабля, поэтому мы можем довольствоваться изучением лишь некоторых обломков, которые можно проанализировать."
+
+tech_precursor_phanon_design_pe_2: "Интенсивный анализ Фи-технологий"
+tech_precursor_phanon_design_pe_2_desc: "Обнаруженные дополнительные фрагменты и обломки в сочетании с наблюдаемым поведением оружейных систем Фанона позволяют нам провести более интенсивный анализ их технологий. Очевидно, что мы все еще не приблизились к пониманию реального источника энергии, но мы уверены, что это даст нам дополнительное представление о том, как действуют их корабли."
+
+tech_precursor_phanon_design_pe_3: "Полный анализ Фи-технологий"
+tech_precursor_phanon_design_pe_3_desc: "Собрав все данные и фрагменты, можно будет провести окончательный всесторонний анализ кораблей Фанона. Это, наконец, позволит нам создать полный спектр Фи-технологий, вдохновленных Корпусом Фанона. Завершение этого анализа также проложит долгий путь к истинному пониманию таинственной силы Корпуса."
+
+
+tech_darkmatter_stealth_generator_re: "Рунический стелс-генератор"
+tech_darkmatter_stealth_generator_re_desc: "Более совершенные технологии маскировки ведут к появлению множества новых интересных стратегий. Вскоре мы сможем разработать механизм маскировки, который будет полезен не только для немедленной внезапной атаки."
+
+ACOT_CLOAKING_LIGHT_RE_TOOLTIP: "§EЛегкий стелс-генератор не имеет штрафа к щитам, но обладает ограниченной маскировочной способностью.§!\n\n"
+ACOT_CLOAKING_HEAVY_RE_TOOLTIP: "$CLOAKING_SHIELD_REDUCTION_HEADER$ §R60%§!\n\n§E$SHIP_SHIELD_REDUCTION_CLOAKING$ может быть уменьшена вдвое, если оснащены вспомогательными компонентами усилителя щита не ниже уровня Дельта.§!\n\n"
+
+ACOT_CLOAKING_LIGHT_RE: "Рунический легкий-стелс-генератор"
+ACOT_CLOAKING_LIGHT_RE_DESC: "Рунический легкий-стелс-генератор"
+ACOT_CLOAKING_FULL_RE: "Рунический легкий-стелс-генератор"
+ACOT_CLOAKING_FULL_RE_DESC: "Рунический легкий-стелс-генератор"
+
+################ MEGASTRUCTUR #############
+ 
+acot_phanon_dimensional_portal: "§RПространственное зеркало Фанона"
+acot_phanon_dimensional_portal_DESC: "§RМассивный односторонний пространственный портал, который, похоже, используется Корпусом Фанона для создания сети путешествий между галактиками. Похоже, что только сами члены Корпуса Фанона могут использовать его."
+ 
+acot_phanon_dimensional_portal_disabled: "Отключенное пространственное зеркало Фанона"
+acot_phanon_dimensional_portal_disabled_DESC: "Массивный односторонний пространственный портал, который когда-то использовался Корпусом Фанона для создания сети путешествий между галактиками. Сейчас Зеркало отключено, что не позволяет Корпусу использовать его для легкого проникновения в эту галактику."
+
+acot_phanon_master_reactor_sphere: "§RЗвездный путешественник Фанона"
+acot_phanon_master_reactor_sphere_DESC: "§RМассивный космический корабль, в котором, судя по всему, размещены различные внутренние мегаструктуры и который, как предполагается, используется Корпусом Фанона для путешествий между галактиками с целью создания своей оперативной базы."
+ 
+#### PHANOROS DISTRUCTUS ######
+ 
+district_acot_phanon_command: "§RМодуль А-зоны хранилища Фанона"
+district_acot_phanon_command_plural: "§RМодуль А-зоны хранилища Фанона"
+district_acot_phanon_command_desc: "§RМодуль А-зоны, похоже, является конфигурацией по умолчанию для интерьеров хранилища. Секции, построенные с использованием этой конфигурации, обеспечивают достаточное количество материалов, припасов и энергии при почти незаметном обслуживании."
+ 
+district_acot_phanon_data: "§RМодуль B-зоны хранилища Фанона"
+district_acot_phanon_data_plural: "§RМодуль B-зоны хранилища Фанона"
+district_acot_phanon_data_desc: "§RПохоже, что такая конфигурация превращает эту часть хранилища в живой биокупол. Несмотря на то, что Корпус в основном полагается на автоматику, и поэтому у него нет особой необходимости в чем-то подобном, эта зона, скорее всего, все же включена с целью самообмана, поскольку именно здесь, по-видимому, происходит любое взаимодействие между Корпусом и Галактикой. Она явно не предназначена для использования в качестве основного модуля из-за высокой стоимости обслуживания и размера."
+ 
+district_acot_phanon_vault: "§RМодуль С-зоны хранилища Фанона"
+district_acot_phanon_vault_plural: "§RМодуль С-зоны хранилища Фанона"
+district_acot_phanon_vault_desc: "§RДизайн С-зоны выглядит как своего рода модуль безопасности или обороны. Секции усилены дополнительными узлами телепортации, а также множеством автоматизированных систем защиты."
+ 
+#### BUILDING DERU ######
+ 
+building_phanon_tower: "§RШтаб командования Фанона"
+building_phanon_tower_desc: "RШтаб командования Фанона"
+ 
+building_phanon_plant: "§RРуническое поле Фанона"
+building_phanon_plant_desc: "§RРуническое поле Фанона"
+ 
+building_phanon_vault: "§RУчилище Фанона"
+building_phanon_vault_desc: "§RУчилище Фанона"
+ 
+building_phanon_lab: "§RСекретные операции Фанона"
+building_phanon_lab_desc: "§RСекретные операции Фанона"
+ 
+ 
+acot_modifier_vault_delay: "Блокировка хранилища Фанона"
+acot_modifier_vault_delay_desc: "Мы можем только время от времени пытаться прорваться."
+ 
+acot_infiltrate_phanon_grid_fail_text: "§RWe cannot allow the Vault to be caught with no one to maintain, or the Corps may sneak in infiltrators to reset the control codes. More pops on it will be needed in case some died in the firefight.§!"
+
+decision_acot_infiltrate_phanon_grid: "Штурм бесконечных коридоров"
+decision_acot_infiltrate_phanon_grid_desc: "Отдает приказ вскрыть камеру хранилища и спуститься в бесконечные коридоры, где армии должны сразиться с системами безопасности и зажатыми силами обороны, чтобы добиться победы. Имейте в виду, что если штурм провалится, Корпус может воспользоваться возможностью и вернуть хранилище из-под нашего контроля!"
+ 
+decision_acot_infiltrate_phanon_grid_stage_two: "Штурм бесконечных коридоров"
+decision_acot_infiltrate_phanon_grid_stage_two_desc: "Отдает приказ вскрыть камеру хранилища и спуститься в бесконечные коридоры, где армии должны сразиться с системами безопасности и зажатыми силами обороны, чтобы добиться победы. Имейте в виду, что если штурм провалится, Корпус может воспользоваться возможностью и вернуть хранилище из-под нашего контроля!"
+ 
+decision_acot_infiltrate_phanon_grid_stage_three: "Штурм бесконечных коридоров"
+decision_acot_infiltrate_phanon_grid_stage_three_desc: "Отдает приказ вскрыть камеру хранилища и спуститься в бесконечные коридоры, где армии должны сразиться с системами безопасности и зажатыми силами обороны, чтобы добиться победы. Имейте в виду, что если штурм провалится, Корпус может воспользоваться возможностью и вернуть хранилище из-под нашего контроля!"
+
+decision_acot_infiltrate_phanon_grid_stage_four: "Штурм бесконечных коридоров"
+decision_acot_infiltrate_phanon_grid_stage_four_desc: "Отдает приказ вскрыть камеру хранилища и спуститься в бесконечные коридоры, где армии должны сразиться с системами безопасности и зажатыми силами обороны, чтобы добиться победы. Имейте в виду, что если штурм провалится, Корпус может воспользоваться возможностью и вернуть хранилище из-под нашего контроля!"
+#### TRAITS AND CIVICS ######
+ 
+RT_PHANON: "Оперативник тип C"
+RT_PHANON: "Оперативник тип C"
+ 
+gov_acot_phanon_corps: "Межгалактическая военизированная служба"
+gov_acot_phanon_corps_desc: "Эта фракция существует не как империя, а как мощная сторонняя военизированная сила с межгалактическим влиянием."
+ 
+civic_acot_phanon_corps: "Корпус Фанона"
+civic_acot_phanon_corps_desc: "Корпус Фанона - таинственная нейтральная сторона, обладающая неизвестными знаниями и силой."
+ 
+civic_acot_phanon_fleet: "Неукротимый флот"
+civic_acot_phanon_fleet_desc: "На флотах Корпуса Фанона действует строгий регламент, требующий лучших из лучших показателей."
+ 
+leader_trait_acot_phanon_admiral: "Оперативник Фанона тип A"
+leader_trait_acot_phanon_admiral_desc: "Оперативники типа А ориентированы на космические сражения и лидерство в бою."
+ 
+name_list_Phanon: "Фанон"
+name_list_Phanon: "Корпус Фанона присваивает имена своим агентам в зависимости от роли, которую они выполняют.\n\nТип C = Командир\nТип A = Адмирал\nТип G = Генерал\nТип S = Ученый\nТип M = Менеджер"
+ 
+######## ARMY #############
+
+tech_phanon_army: "Коды доступа служащих Фанона"
+tech_phanon_army_desc: "Эти 'Служащие', как их называет Корпус Фанона, похоже, являются своего рода генетически созданными клонами суперсолдат с единственной целью - служить Корпусу. Мы не можем определить, какого рода генетический состав или усовершенствования используются при создании этих суперсолдат, но нам удалось получить коды доступа к их производственному комплексу. Но прежде чем мы сможем что-либо с ними сделать, нам нужно убедиться, что Служащие не обратятся против нас."
+
+acot_phanon_army: "Служащие десантники Фанона"
+acot_phanon_army_plural: "Служащие десантники Фанона"
+acot_phanon_army_desc: "Генетически усиленные армии клонов суперсолдат, созданные на основе загадочного шаблона Корпуса. Они были модифицированы, чтобы реагировать только на наши команды, и значительно превосходят большинство стандартных пехотинцев. Однако они все еще способны испытывать базовые эмоции, то есть на них все еще может влиять мораль, и они будут сражаться с превосходящими силами противника. Десантники носят тяжелую броню и довольно универсальны, не имея очевидных слабостей."
+ 
+acot_phanon_army_sniper: "Служащие снайперы Фанона"
+acot_phanon_army_sniper_plural: "Служащие снайперы Фанона"
+acot_phanon_army_sniper_desc: "Генетически усиленные армии клонов суперсолдат, созданные на основе загадочного шаблона Корпуса. Они были модифицированы, чтобы реагировать только на наши команды, и значительно превосходят большинство стандартных пехотинцев. Однако они все еще способны испытывать базовые эмоции, то есть на них все еще может влиять мораль, и они будут бежать против превосходящих сил противника. Снайперы имеют более слабую защиту, но умеют вычленять вражеские войска и подрывать их мораль своей меткостью, что делает их превосходными против стандартных пехотных сил."
+
+tech_phanon_army_elite: "Коды доступа к элитным служащим Фанона"
+tech_phanon_army_elite_desc: "В глубинах хранилища были обнаружены новые коды доступа. Эти коды должны позволить нам приобрести более тяжелые и мощные варианты Служащих, предназначенные для больших разрушительных возможностей."
+ 
+acot_phanon_elite: "Элитные служащие Фанона"
+acot_phanon_elite_plural: "Элитные служащие Фанона"
+acot_phanon_elite_desc: "Элита имеет более совершенную броню и вооружение по сравнению с Десантниками. Они действуют подобно современным пехотинцам в экзокостюмах, хотя и с гораздо более совершенными бионическими боевыми костюмами. Используют два генетических кода Фанона."
+
+acot_phanon_tank: "Танк-патриот Фанона"
+acot_phanon_tank_plural: "Танк-патриот Фанона"
+acot_phanon_tank_desc: "Танк необычной формы, сочетающий в себе прочность традиционного танкового шасси и некоторые элементы шагающих конструкций. Их разрушительные возможности слишком велики, что может объяснить, почему они никогда не используются для обороны самого хранилища. Использует три генетических кода Фанона."
+
+tech_phanon_army_repeatable: "Пополнение служащих Фанона"
+tech_phanon_army_repeatable_desc: "Мы почти исчерпали количество клонов служащих Фанона, и если мы хотим приобрести еще, нам придется потрудиться над изучением их генетических кодов и восстановить запасы."
+
+decision_recruit_phanon_dog: "Запросить Дроны террора Фанона"
+decision_recruit_phanon_dog_desc: "Нанимает 3 единицы Дронов террора Фанона которые находятся в гарнизоне на борту 'Звездных бендеров'."
+
+acot_phanon_attack_dog: "Дроны террора Фанона"
+acot_phanon_attack_dog_plural: "Дроны террора Фанона"
+acot_phanon_attack_dog_desc: "Мощные автоматические собакоподобные дроны с удивительно хорошим интеллектом на поле боя. Они отлично справляются с прорывом вражеского строя и даже разрушают внутренности машин."
+ 
+acot_phanon_attack_mammoth: "Бивень террора Фанона"
+acot_phanon_attack_mammoth_plural: "Бивень террора Фанона"
+acot_phanon_attack_mammoth_desc: "Мощные автоматические дроны в форме мамонта, предназначенные для прорыва вражеских укреплений благодаря своим огромным размерам и мощности."
+
+tech_phanon_attack_dog: "Коды доступа к Машинам войны Фанона"
+tech_phanon_attack_dog_desc: "Эти Машины войны имеют очень четкий анималистический дизайн и форму, в отличие от более гуманоидных клонов служащих, что позволяет предположить, что они были созданы по образцу некоторых видов, обнаруженных на территории Корпуса. Что касается их назначения, то они, по-видимому, используются как расходный материал, механические варианты служащих. Однако их смертоносность компенсирует их хрупкую природу."
+
+tech_phanon_attack_dog_repeatable: "Пополнение Машин войны Фанона"
+tech_phanon_attack_dog_repeatable_desc: "Мы почти исчерпали количество Машин войны Фанона, и если мы хотим приобрести больше, нам придется потрудиться, чтобы получить больше компонентов и генетических кодов для их восстановления."
+
+acot_phanon_operative: "Полевой оперативник Фанона тип A"
+acot_phanon_operative_plural: "Полевые оперативники Фанона тип A"
+acot_phanon_operative_desc: "Развернутые парами, полевые оперативники Фанона являются, возможно, одной из самых сильных боевых сил на поле боя, способных реагировать практически на любую ситуацию и проводить различные стратегии - от прямого боя, саботажа, скрытности, убийства или даже соблазнения. Полевые оперативники, в отличие от большинства сил Корпуса, созданы по индивидуальному заказу и отличаются друг от друга характером, личностью и внешностью. Однако все они одинаково смертоносны.\n\nОперативники типа А отлично справляются с хирургически точными ударами, саботажем и психологической войной. Для достижения своих целей они обычно используют неразрушительное оружие."
+ 
+acot_phanon_operative_type_b: "Полевой оперативник Фанона тип B"
+acot_phanon_operative_type_b_plural: "Полевые оперативники Фанона тип B"
+acot_phanon_operative_type_b_desc: "Развернутые парами, полевые оперативники Фанона являются, возможно, одной из самых сильных боевых сил на поле боя, способных реагировать практически на любую ситуацию и проводить различные стратегии - от прямого боя, саботажа, скрытности, убийства или даже соблазнения. Полевые оперативники, в отличие от большинства сил Корпуса, созданы по индивидуальному заказу и отличаются друг от друга характером, личностью и внешностью. Однако все они одинаково смертоносны.\n\nОперативники типа B превосходно справляются с лобовой атакой, нанося повреждения и разрушения по всей территории, что делает их превосходными против машин или в сражениях, где побочный ущерб не является проблемой."
+
+tech_phanon_operative: "Исследование полевых оперативников Фанона"
+tech_phanon_operative_desc: "Возможно, один из самых загадочных и в то же время пугающе мощных секретов армии Корпуса, полевые оперативники действуют как последняя защита от любых вторжений. Они обладают как биологическими, так и механическими компонентами, но, пожалуй, самой заметной их особенностью является тщательно продуманный внешний вид. Каждый оперативник имеет сшитые на заказ наряды и визуально сильно отличается друг от друга, что позволяет предположить, что они могут выполнять и другие обязанности, помимо боевых.\n\nНезависимо от конструкции, они по-прежнему являются чрезвычайно смертоносными бойцами, а их внешний вид обманчиво скрывает множество арсеналов, имеющихся в их распоряжении, а одеяния, которые они носят, удивительно прочны, их материал даже прочнее, чем броня некоторых транспортных средств, но при этом очень легки по весу. Взломать коды будет непросто, а в хранилище осталось всего три оперативника."
+ 
+tech_phanon_operative_repeatable: "Реконструкция оперативников Фанона"
+tech_phanon_operative_repeatable_desc: "Поскольку у нас не осталось оперативников для активации, единственный способ получить больше - изучить данные и попытаться создать новый шаблон. Это будет непростая задача, поскольку встроенная система безопасности будет усложнять наши задачи с каждой попыткой восстановить генетические шаблоны."
+ 
+######## DEFENDER #############
+ 
+acot_phanon_defense_soldier: "Служащий Фанона"
+acot_phanon_defense_soldier_plural: "Служащие Фанона"
+acot_phanon_defense_soldier_desc: "Долг призывает мужчин и женщин. Долг должен быть выполнен. Ибо долг зовет."
+ 
+acot_phanon_defense_elite: "Элита Фанона"
+acot_phanon_defense_elite_plural: "Элиты Фанона"
+acot_phanon_defense_elite_desc: "Отряд десантников! Точно. Понял, я проверю."
+ 
+acot_phanon_defense_psi: "Пси-коммандос Фанона"
+acot_phanon_defense_psi_plural: "Пси-коммандосы Фанона"
+acot_phanon_defense_psi_desc: "Экстрасенс готов. Я знаю ваши мысли. Мысли получены. Его разум слаб!"
+ 
+acot_phanon_defense_commander: "Офицер Фанона"
+acot_phanon_defense_commander_plural: "Офицеры Фанона"
+acot_phanon_defense_commander_desc: "<Указывает> МОР БАЛАТЕН! ПЛОХАЯ ЦЕЛЬ!"
+ 
+acot_phanon_defense_droid: "Защитник орудий Фанона"
+acot_phanon_defense_droid_plural: "Защитники орудий Фанона"
+acot_phanon_defense_droid_desc: "Отряд защитников. Идентифицировать нашего врага. Слушаем. Для Фанона. Локации приняты."
+ 
+acot_phanon_defense_droid_commando: "Защитник коммандос Фанона"
+acot_phanon_defense_droid_commando_plural: "Защитники коммандос Фанона"
+acot_phanon_defense_droid_commando_desc: "Ваш вызов? Казнить... Для Фанона. По воле Уримуриха. Мы служим Корпусу. Удаление врагов."
+ 
+acot_phanon_defense_droid_shielder: "Защитник Эгиды Фанона"
+acot_phanon_defense_droid_shielder_plural: "Защитники Эгиды Фанона"
+acot_phanon_defense_droid_shielder_desc: "Полностью экранирован. Как мы можем служить? Никто не пройдет мимо нас. Ради дела. Обновление вектора. Преломление целей."
+ 
+acot_phanon_defense_droid_commander: "Командный защитник Фанона"
+acot_phanon_defense_droid_commander_plural: "Командные защитники Фанона"
+acot_phanon_defense_droid_commander_desc: "Слушать. Кого мы погубим в этот день? Командная связь установлена. Жду приказов. Наша воля - Фанон. Уримурих направляет нас."
+ 
+acot_phanon_defense_xenomorph: "Улучшенный ксеноморф Фанона"
+acot_phanon_defense_xenomorph_plural: "Улучшенные ксеноморфы Фанона"
+acot_phanon_defense_xenomorph_desc: "Сильно усиленные, экспериментальные ксеноморфы, привитые неизвестным псионическим аппаратом. Они очень агрессивны и непостоянны, и нельзя рассчитывать на то, что они будут долго оставаться послушными."
+
+acot_phanon_defense_attack_dog: "Атакующий пес Фанона"
+acot_phanon_defense_attack_dog_plural: "Атакующие псы Фанона"
+acot_phanon_defense_attack_dog_desc: "Когти готовы. Куда мы нанесем удар? Кто наша добыча? Очень хорошо. В путь. Путь будет чист. Не сбежать."
+ 
+acot_phanon_defense_turret: "Часовая пушка Фанона"
+acot_phanon_defense_turret_plural: "Часовые пушки Фанона"
+acot_phanon_defense_turret_desc: "<Бип> Обнаружен нарушитель. <Бип> Враг в поле зрения. <Бип> Цели выбраны. <Бип> Устранение укрытия. <Бип> Обеспечение огневой поддержки."
+ 
+acot_phanon_defense_trap: "Смертельная ловушка Фанона"
+acot_phanon_defense_trap_plural: "Смертельные ловушки Фанона"
+acot_phanon_defense_trap_desc: "<Бип> <Бип> <Бип> <Бип> <Бип> <Бип> <БУУУУМ>"
+ 
+ 
+acot_phanon_defense_operative: "Полевой оперативник Фанона"
+acot_phanon_defense_operative_plural: "Полевые оперативники Фанона"
+acot_phanon_defense_operative_desc: "Развернутые парами, полевые оперативники Фанона являются, возможно, одной из самых сильных боевых сил на поле боя, способных реагировать практически на любую ситуацию и проводить различные стратегии - от прямого боя, саботажа, скрытности, убийства или даже соблазнения. Полевые оперативники, в отличие от большинства сил Корпуса, созданы по индивидуальному заказу и отличаются друг от друга характером, личностью и внешностью. Однако все они одинаково смертоносны.\n\nПолевая оперативная группа развертывается со своего личного ударного корабля с поддержкой сверхсветовых скоростей. В случае, если они не справились с поставленными задачами, они могут отступить на свой личный корабль."
+ 
+#######################
+
+ACOT_PHI_CORVETTE_MID_S6: "Phi Picket Corvette"
+ACOT_PHI_CORVETTE_MID_M2S2: "Phi Versatile Corvette"
+ACOT_PHI_CORVETTE_MID_M3: "Phi Gunship Corvette"
+
+#######################
+
+ACOT_PHI_FRIGATE_MID_G3: "Phi Heavy Torpedo Frigate"
+ACOT_PHI_FRIGATE_MID_G2M1: "Phi Battle Frigate"
+ACOT_PHI_FRIGATE_MID_G1S4: "Phi Support Frigate"
+
+#######################
+
+ACOT_PHI_DESTROYER_BOW_M2S6: "Phi Picket Bow"
+ACOT_PHI_DESTROYER_BOW_L1M3: "Phi Artillery Bow "
+ACOT_PHI_DESTROYER_BOW_H2M1: "Phi Hangar Bow"
+ACOT_PHI_DESTROYER_BOW_M5: "Phi Gunship Bow"
+ACOT_PHI_DESTROYER_BOW_G5: "Phi Heavy Torpedo Bow"
+ACOT_PHI_DESTROYER_STERN_S6: "Phi Picket Stern"
+ACOT_PHI_DESTROYER_STERN_M3: "Phi Gunship Stern"
+ACOT_PHI_DESTROYER_STERN_G3: "Phi Torpedo Stern"
+ 
+#######################
+
+ACOT_PHI_CRUISER_BOW_L1M2: "Phi Cruiser Artillery Bow"
+ACOT_PHI_CRUISER_BOW_M2S4: "Phi Cruiser Picket Bow"
+ACOT_PHI_CRUISER_BOW_M4: "Phi Cruiser Gunship Bow"
+ACOT_PHI_CRUISER_BOW_G4: "Phi Cruiser Torpedo Bow"
+ACOT_PHI_CRUISER_MID_H2S2: "Phi Cruiser Hangar Core"
+ACOT_PHI_CRUISER_MID_L2M1: "Phi Cruiser Artillery Core"
+ACOT_PHI_CRUISER_MID_M5: "Phi Cruiser Gunship Core"
+ACOT_PHI_CRUISER_MID_G5: "Phi Cruiser Torpedo Core"
+ACOT_PHI_CRUISER_MID_M3S4: "Phi Cruiser Picket Core"
+ACOT_PHI_CRUISER_STERN_L1M1: "Phi Cruiser Artillery Stern"
+ACOT_PHI_CRUISER_STERN_M3: "Phi Cruiser Gunship Stern"
+ACOT_PHI_CRUISER_STERN_G3: "Phi Cruiser Torpedo Stern"
+ACOT_PHI_CRUISER_STERN_M1S4: "Phi Cruiser Picket Stern"
+ 
+#######################
+
+ACOT_PHI_BATTLESHIP_BOW_L2M2S4: "Phi Battleship Assault Bow"
+ACOT_PHI_BATTLESHIP_BOW_L2G2S4: "Phi Battleship Torpedo Bow"
+ACOT_PHI_BATTLESHIP_BOW_L4: "Phi Battleship Artillery Bow"
+ACOT_PHI_BATTLESHIP_BOW_M1S2H3: "Phi Battleship Hangar Bow"
+ACOT_PHI_BATTLESHIP_BOW_X1L2: "Phi Battleship Spinal Bow"
+ACOT_PHI_BATTLESHIP_MID_L2M6: "Phi Battleship Assault Core"
+ACOT_PHI_BATTLESHIP_MID_L2G6: "Phi Battleship Torpedo Core"
+ACOT_PHI_BATTLESHIP_MID_L5: "Phi Battleship Artillery Core"
+ACOT_PHI_BATTLESHIP_MID_M4H3: "Phi Battleship Hangar Core"
+ACOT_PHI_BATTLESHIP_MID_S4H4: "Phi Battleship Carrier Core"
+ACOT_PHI_BATTLESHIP_STERN_L3: "Phi Battleship Artillery Stern"
+ACOT_PHI_BATTLESHIP_STERN_M6: "Phi Battleship Assault Stern" 
+ACOT_PHI_BATTLESHIP_STERN_G6: "Phi Battleship Torpedo Stern"
+ACOT_PHI_BATTLESHIP_STERN_S4H2: "Phi Battleship Hangar Stern"
+ 
+#######################
+
+ACOT_PHI_TITAN_BOW_T2: "Phi Titan Spinal Bow"
+ACOT_PHI_TITAN_BOW_H8: "Phi Titan Carrier Bow"
+ACOT_PHI_TITAN_BOW_T1XL2: "Phi Titan Twin Coil Bow"
+ACOT_PHI_TITAN_MID_XL2L8: "Phi Titan Artillery Core"
+ACOT_PHI_TITAN_MID_XL2H8: "Phi Titan Hangar Core"
+ACOT_PHI_TITAN_MID_M4H10: "Phi Titan Carrier Core"
+ACOT_PHI_TITAN_MID_XL6: "Phi Titan Siege Core"
+ACOT_PHI_TITAN_STERN_XL2L4: "Phi Titan Artillery Stern"
+ACOT_PHI_TITAN_STERN_XL2H4: "Phi Titan Hangar Stern"
+ACOT_PHI_TITAN_STERN_M4H6: "Phi Titan Carrier Stern"
+ACOT_PHI_TITAN_STERN_XL4: "Phi Titan Siege Stern"
+ 
+#######################
+
+ACOT_PHI_SHIP_COLOSSUS_SECTION: "Phi Colossus Phalious Palous"
+
+#######################
+
+ACOT_PHI_CORE_JUGGERNAUT_SECTION: "Phi Standard Juggernaut"
+ACOT_PHI_CORE_JUGGERNAUT_L_SECTION: "Phi Battle Juggernaut"
+ACOT_PHI_CORE_JUGGERNAUT_XL_SECTION: "Phi Siege Juggernaut"
+
+#######################
+
+ACOT_PHI_PLATFORM_2M8S: "Phi Picket Section"
+ACOT_PHI_PLATFORM_6M: "Phi Kumayaki Section"
+ACOT_PHI_PLATFORM_6G: "Phi Torpedo Section"
+ACOT_PHI_PLATFORM_3L: "Phi Artillery Section"
+ACOT_PHI_PLATFORM_3H: "Phi Hangar Section"
+#######################
+
+ACOT_PHI_ION_CANNON_3T: "Phi Twin Arch-Spinal Cannon"
+ACOT_PHI_ION_CANNON_6XL: "Phi Quad Spinal Cannon"
+ACOT_PHI_ION_CANNON_1T4XL: "Phi Dynamic Cannon"
+ACOT_PHI_ION_CANNON_12H: "Phi Duper Hangar Railway"
